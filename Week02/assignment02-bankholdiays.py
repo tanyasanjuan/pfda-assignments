@@ -17,7 +17,8 @@ for bh in data ['northern-ireland']['events']:
 # this print all the bank holidays happen in Northern Ireland, from 2024 until 2027. 
 # A total of 10 festivities during the year.
 
-"""
+
+# Program modified to get only the BH celebrated in NI, excluding the rest of UK
 ni_bankholidays = data['northern-ireland']['events']
 
 for bh in ni_bankholidays:
@@ -26,4 +27,3 @@ for bh in ni_bankholidays:
 
 # This prints two festivities: St. Patrick's day and Orangemen's day. 
 # From 2024 until 2027
-"""
