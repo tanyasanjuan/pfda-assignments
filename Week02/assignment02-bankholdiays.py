@@ -1,5 +1,5 @@
 # This program print out the dates of the bank holidays that happen in Northern Ireland
-# excluding the bh celebrated in other parts of UK
+# and then print out excluding the bh celebrated in other parts of UK
 # This program use the next Url with JSON data:
 # https://www.gov.uk/bank-holidays.json
 # Author: Tanya San Juan
@@ -12,6 +12,12 @@ import requests
 url = 'https://www.gov.uk/bank-holidays.json'
 response = requests.get(url)
 data = response.json()
+for bh in data ['northern-ireland']['events']:
+    print(f'{bh['title']} is on {bh['date']}')
+# this print all the bank holidays happen in Northern Ireland, from 2024 until 2027. 
+# A total of 10 festivities during the year.
+
+"""
 ni_bankholidays = data['northern-ireland']['events']
 
 for bh in ni_bankholidays:
@@ -20,3 +26,4 @@ for bh in ni_bankholidays:
 
 # This prints two festivities: St. Patrick's day and Orangemen's day. 
 # From 2024 until 2027
+"""
