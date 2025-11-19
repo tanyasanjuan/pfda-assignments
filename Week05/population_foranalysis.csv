@@ -1,0 +1,3233 @@
+,Single Year of Age,Administrative Counties,VALUE
+32,0,Ireland,57796
+33,0,Carlow County Council,699
+34,0,Dublin City Council,6213
+35,0,Dún Laoghaire Rathdown County Council,2457
+36,0,Fingal County Council,4009
+37,0,South Dublin County Council,3544
+38,0,Kildare County Council,3005
+39,0,Kilkenny County Council,1123
+40,0,Laois County Council,1100
+41,0,Longford County Council,527
+42,0,Louth County Council,1700
+43,0,Meath County Council,2774
+44,0,Offaly County Council,935
+45,0,Westmeath County Council,1129
+46,0,Wexford County Council,1792
+47,0,Wicklow County Council,1710
+48,0,Clare County Council,1377
+49,0,Cork City Council,2283
+50,0,Cork County Council,4190
+51,0,Kerry County Council,1665
+52,0,Limerick City & County Council,2165
+53,0,Tipperary County Council,1932
+54,0,Waterford City & County Council,1340
+55,0,Galway City Council,792
+56,0,Galway County Council,2249
+57,0,Leitrim County Council,404
+58,0,Mayo  County Council,1520
+59,0,Roscommon County Council,748
+60,0,Sligo County Council,743
+61,0,Cavan County Council,1006
+62,0,Donegal County Council,1797
+63,0,Monaghan County Council,868
+64,1 year,Ireland,56420
+65,1 year,Carlow County Council,649
+66,1 year,Dublin City Council,5699
+67,1 year,Dún Laoghaire Rathdown County Council,2437
+68,1 year,Fingal County Council,3894
+69,1 year,South Dublin County Council,3673
+70,1 year,Kildare County Council,2987
+71,1 year,Kilkenny County Council,1121
+72,1 year,Laois County Council,1008
+73,1 year,Longford County Council,482
+74,1 year,Louth County Council,1531
+75,1 year,Meath County Council,2638
+76,1 year,Offaly County Council,937
+77,1 year,Westmeath County Council,1158
+78,1 year,Wexford County Council,1724
+79,1 year,Wicklow County Council,1682
+80,1 year,Clare County Council,1360
+81,1 year,Cork City Council,2284
+82,1 year,Cork County Council,4115
+83,1 year,Kerry County Council,1550
+84,1 year,Limerick City & County Council,2235
+85,1 year,Tipperary County Council,1808
+86,1 year,Waterford City & County Council,1266
+87,1 year,Galway City Council,757
+88,1 year,Galway County Council,2217
+89,1 year,Leitrim County Council,406
+90,1 year,Mayo  County Council,1566
+91,1 year,Roscommon County Council,764
+92,1 year,Sligo County Council,766
+93,1 year,Cavan County Council,1004
+94,1 year,Donegal County Council,1881
+95,1 year,Monaghan County Council,821
+96,2 years,Ireland,59210
+97,2 years,Carlow County Council,689
+98,2 years,Dublin City Council,5830
+99,2 years,Dún Laoghaire Rathdown County Council,2489
+100,2 years,Fingal County Council,4308
+101,2 years,South Dublin County Council,3734
+102,2 years,Kildare County Council,3102
+103,2 years,Kilkenny County Council,1179
+104,2 years,Laois County Council,1169
+105,2 years,Longford County Council,544
+106,2 years,Louth County Council,1694
+107,2 years,Meath County Council,2851
+108,2 years,Offaly County Council,945
+109,2 years,Westmeath County Council,1108
+110,2 years,Wexford County Council,1835
+111,2 years,Wicklow County Council,1796
+112,2 years,Clare County Council,1473
+113,2 years,Cork City Council,2306
+114,2 years,Cork County Council,4290
+115,2 years,Kerry County Council,1651
+116,2 years,Limerick City & County Council,2373
+117,2 years,Tipperary County Council,1836
+118,2 years,Waterford City & County Council,1329
+119,2 years,Galway City Council,792
+120,2 years,Galway County Council,2349
+121,2 years,Leitrim County Council,453
+122,2 years,Mayo  County Council,1526
+123,2 years,Roscommon County Council,893
+124,2 years,Sligo County Council,764
+125,2 years,Cavan County Council,1061
+126,2 years,Donegal County Council,1971
+127,2 years,Monaghan County Council,870
+128,3 years,Ireland,60484
+129,3 years,Carlow County Council,754
+130,3 years,Dublin City Council,5580
+131,3 years,Dún Laoghaire Rathdown County Council,2613
+132,3 years,Fingal County Council,4384
+133,3 years,South Dublin County Council,3856
+134,3 years,Kildare County Council,3120
+135,3 years,Kilkenny County Council,1203
+136,3 years,Laois County Council,1219
+137,3 years,Longford County Council,583
+138,3 years,Louth County Council,1603
+139,3 years,Meath County Council,2928
+140,3 years,Offaly County Council,1009
+141,3 years,Westmeath County Council,1148
+142,3 years,Wexford County Council,1864
+143,3 years,Wicklow County Council,1862
+144,3 years,Clare County Council,1468
+145,3 years,Cork City Council,2294
+146,3 years,Cork County Council,4437
+147,3 years,Kerry County Council,1714
+148,3 years,Limerick City & County Council,2352
+149,3 years,Tipperary County Council,2048
+150,3 years,Waterford City & County Council,1476
+151,3 years,Galway City Council,799
+152,3 years,Galway County Council,2438
+153,3 years,Leitrim County Council,432
+154,3 years,Mayo  County Council,1557
+155,3 years,Roscommon County Council,859
+156,3 years,Sligo County Council,825
+157,3 years,Cavan County Council,1085
+158,3 years,Donegal County Council,2074
+159,3 years,Monaghan County Council,900
+160,4 years,Ireland,61505
+161,4 years,Carlow County Council,745
+162,4 years,Dublin City Council,5624
+163,4 years,Dún Laoghaire Rathdown County Council,2658
+164,4 years,Fingal County Council,4422
+165,4 years,South Dublin County Council,3870
+166,4 years,Kildare County Council,3267
+167,4 years,Kilkenny County Council,1234
+168,4 years,Laois County Council,1220
+169,4 years,Longford County Council,559
+170,4 years,Louth County Council,1732
+171,4 years,Meath County Council,3026
+172,4 years,Offaly County Council,1007
+173,4 years,Westmeath County Council,1208
+174,4 years,Wexford County Council,1941
+175,4 years,Wicklow County Council,1897
+176,4 years,Clare County Council,1505
+177,4 years,Cork City Council,2243
+178,4 years,Cork County Council,4620
+179,4 years,Kerry County Council,1720
+180,4 years,Limerick City & County Council,2467
+181,4 years,Tipperary County Council,2072
+182,4 years,Waterford City & County Council,1390
+183,4 years,Galway City Council,830
+184,4 years,Galway County Council,2543
+185,4 years,Leitrim County Council,450
+186,4 years,Mayo  County Council,1593
+187,4 years,Roscommon County Council,833
+188,4 years,Sligo County Council,820
+189,4 years,Cavan County Council,1047
+190,4 years,Donegal County Council,2089
+191,4 years,Monaghan County Council,873
+192,5 years,Ireland,64026
+193,5 years,Carlow County Council,749
+194,5 years,Dublin City Council,5575
+195,5 years,Dún Laoghaire Rathdown County Council,2868
+196,5 years,Fingal County Council,4639
+197,5 years,South Dublin County Council,4053
+198,5 years,Kildare County Council,3296
+199,5 years,Kilkenny County Council,1337
+200,5 years,Laois County Council,1248
+201,5 years,Longford County Council,646
+202,5 years,Louth County Council,1793
+203,5 years,Meath County Council,3121
+204,5 years,Offaly County Council,1099
+205,5 years,Westmeath County Council,1276
+206,5 years,Wexford County Council,2022
+207,5 years,Wicklow County Council,2076
+208,5 years,Clare County Council,1620
+209,5 years,Cork City Council,2362
+210,5 years,Cork County Council,4753
+211,5 years,Kerry County Council,1873
+212,5 years,Limerick City & County Council,2484
+213,5 years,Tipperary County Council,2070
+214,5 years,Waterford City & County Council,1515
+215,5 years,Galway City Council,849
+216,5 years,Galway County Council,2612
+217,5 years,Leitrim County Council,447
+218,5 years,Mayo  County Council,1712
+219,5 years,Roscommon County Council,913
+220,5 years,Sligo County Council,819
+221,5 years,Cavan County Council,1143
+222,5 years,Donegal County Council,2174
+223,5 years,Monaghan County Council,882
+224,6 years,Ireland,66714
+225,6 years,Carlow County Council,750
+226,6 years,Dublin City Council,5813
+227,6 years,Dún Laoghaire Rathdown County Council,2879
+228,6 years,Fingal County Council,4863
+229,6 years,South Dublin County Council,4198
+230,6 years,Kildare County Council,3506
+231,6 years,Kilkenny County Council,1432
+232,6 years,Laois County Council,1328
+233,6 years,Longford County Council,624
+234,6 years,Louth County Council,1922
+235,6 years,Meath County Council,3216
+236,6 years,Offaly County Council,1079
+237,6 years,Westmeath County Council,1352
+238,6 years,Wexford County Council,2165
+239,6 years,Wicklow County Council,2116
+240,6 years,Clare County Council,1656
+241,6 years,Cork City Council,2496
+242,6 years,Cork County Council,5072
+243,6 years,Kerry County Council,1848
+244,6 years,Limerick City & County Council,2621
+245,6 years,Tipperary County Council,2202
+246,6 years,Waterford City & County Council,1627
+247,6 years,Galway City Council,855
+248,6 years,Galway County Council,2720
+249,6 years,Leitrim County Council,468
+250,6 years,Mayo  County Council,1764
+251,6 years,Roscommon County Council,923
+252,6 years,Sligo County Council,824
+253,6 years,Cavan County Council,1176
+254,6 years,Donegal County Council,2224
+255,6 years,Monaghan County Council,995
+256,7 years,Ireland,69001
+257,7 years,Carlow County Council,889
+258,7 years,Dublin City Council,5912
+259,7 years,Dún Laoghaire Rathdown County Council,2974
+260,7 years,Fingal County Council,5053
+261,7 years,South Dublin County Council,4394
+262,7 years,Kildare County Council,3655
+263,7 years,Kilkenny County Council,1467
+264,7 years,Laois County Council,1409
+265,7 years,Longford County Council,676
+266,7 years,Louth County Council,1950
+267,7 years,Meath County Council,3439
+268,7 years,Offaly County Council,1238
+269,7 years,Westmeath County Council,1331
+270,7 years,Wexford County Council,2233
+271,7 years,Wicklow County Council,2197
+272,7 years,Clare County Council,1663
+273,7 years,Cork City Council,2564
+274,7 years,Cork County Council,5342
+275,7 years,Kerry County Council,1957
+276,7 years,Limerick City & County Council,2603
+277,7 years,Tipperary County Council,2236
+278,7 years,Waterford City & County Council,1689
+279,7 years,Galway City Council,893
+280,7 years,Galway County Council,2659
+281,7 years,Leitrim County Council,493
+282,7 years,Mayo  County Council,1798
+283,7 years,Roscommon County Council,1011
+284,7 years,Sligo County Council,934
+285,7 years,Cavan County Council,1162
+286,7 years,Donegal County Council,2212
+287,7 years,Monaghan County Council,968
+288,8 years,Ireland,70733
+289,8 years,Carlow County Council,819
+290,8 years,Dublin City Council,6086
+291,8 years,Dún Laoghaire Rathdown County Council,2985
+292,8 years,Fingal County Council,5360
+293,8 years,South Dublin County Council,4503
+294,8 years,Kildare County Council,3699
+295,8 years,Kilkenny County Council,1483
+296,8 years,Laois County Council,1446
+297,8 years,Longford County Council,661
+298,8 years,Louth County Council,2059
+299,8 years,Meath County Council,3593
+300,8 years,Offaly County Council,1216
+301,8 years,Westmeath County Council,1412
+302,8 years,Wexford County Council,2292
+303,8 years,Wicklow County Council,2237
+304,8 years,Clare County Council,1670
+305,8 years,Cork City Council,2516
+306,8 years,Cork County Council,5410
+307,8 years,Kerry County Council,1876
+308,8 years,Limerick City & County Council,2770
+309,8 years,Tipperary County Council,2314
+310,8 years,Waterford City & County Council,1736
+311,8 years,Galway City Council,923
+312,8 years,Galway County Council,2915
+313,8 years,Leitrim County Council,509
+314,8 years,Mayo  County Council,1792
+315,8 years,Roscommon County Council,982
+316,8 years,Sligo County Council,942
+317,8 years,Cavan County Council,1217
+318,8 years,Donegal County Council,2319
+319,8 years,Monaghan County Council,991
+320,9 years,Ireland,72196
+321,9 years,Carlow County Council,882
+322,9 years,Dublin City Council,5970
+323,9 years,Dún Laoghaire Rathdown County Council,3004
+324,9 years,Fingal County Council,5400
+325,9 years,South Dublin County Council,4522
+326,9 years,Kildare County Council,3832
+327,9 years,Kilkenny County Council,1529
+328,9 years,Laois County Council,1435
+329,9 years,Longford County Council,746
+330,9 years,Louth County Council,2124
+331,9 years,Meath County Council,3637
+332,9 years,Offaly County Council,1210
+333,9 years,Westmeath County Council,1454
+334,9 years,Wexford County Council,2354
+335,9 years,Wicklow County Council,2364
+336,9 years,Clare County Council,1806
+337,9 years,Cork City Council,2617
+338,9 years,Cork County Council,5501
+339,9 years,Kerry County Council,2071
+340,9 years,Limerick City & County Council,2825
+341,9 years,Tipperary County Council,2267
+342,9 years,Waterford City & County Council,1727
+343,9 years,Galway City Council,942
+344,9 years,Galway County Council,2890
+345,9 years,Leitrim County Council,542
+346,9 years,Mayo  County Council,1886
+347,9 years,Roscommon County Council,1029
+348,9 years,Sligo County Council,960
+349,9 years,Cavan County Council,1289
+350,9 years,Donegal County Council,2391
+351,9 years,Monaghan County Council,990
+352,10 years,Ireland,74101
+353,10 years,Carlow County Council,921
+354,10 years,Dublin City Council,6174
+355,10 years,Dún Laoghaire Rathdown County Council,3035
+356,10 years,Fingal County Council,5674
+357,10 years,South Dublin County Council,4797
+358,10 years,Kildare County Council,3875
+359,10 years,Kilkenny County Council,1618
+360,10 years,Laois County Council,1562
+361,10 years,Longford County Council,728
+362,10 years,Louth County Council,2125
+363,10 years,Meath County Council,3756
+364,10 years,Offaly County Council,1293
+365,10 years,Westmeath County Council,1405
+366,10 years,Wexford County Council,2373
+367,10 years,Wicklow County Council,2322
+368,10 years,Clare County Council,1874
+369,10 years,Cork City Council,2580
+370,10 years,Cork County Council,5652
+371,10 years,Kerry County Council,2066
+372,10 years,Limerick City & County Council,2868
+373,10 years,Tipperary County Council,2475
+374,10 years,Waterford City & County Council,1775
+375,10 years,Galway City Council,888
+376,10 years,Galway County Council,2974
+377,10 years,Leitrim County Council,502
+378,10 years,Mayo  County Council,1907
+379,10 years,Roscommon County Council,1008
+380,10 years,Sligo County Council,1018
+381,10 years,Cavan County Council,1312
+382,10 years,Donegal County Council,2510
+383,10 years,Monaghan County Council,1034
+384,11 years,Ireland,75159
+385,11 years,Carlow County Council,964
+386,11 years,Dublin City Council,6056
+387,11 years,Dún Laoghaire Rathdown County Council,3020
+388,11 years,Fingal County Council,5467
+389,11 years,South Dublin County Council,4732
+390,11 years,Kildare County Council,4081
+391,11 years,Kilkenny County Council,1609
+392,11 years,Laois County Council,1553
+393,11 years,Longford County Council,734
+394,11 years,Louth County Council,2186
+395,11 years,Meath County Council,3898
+396,11 years,Offaly County Council,1267
+397,11 years,Westmeath County Council,1484
+398,11 years,Wexford County Council,2410
+399,11 years,Wicklow County Council,2539
+400,11 years,Clare County Council,1821
+401,11 years,Cork City Council,2695
+402,11 years,Cork County Council,5852
+403,11 years,Kerry County Council,2116
+404,11 years,Limerick City & County Council,2979
+405,11 years,Tipperary County Council,2431
+406,11 years,Waterford City & County Council,1877
+407,11 years,Galway City Council,971
+408,11 years,Galway County Council,2978
+409,11 years,Leitrim County Council,531
+410,11 years,Mayo  County Council,1975
+411,11 years,Roscommon County Council,1058
+412,11 years,Sligo County Council,956
+413,11 years,Cavan County Council,1328
+414,11 years,Donegal County Council,2584
+415,11 years,Monaghan County Council,1007
+416,12 years,Ireland,76254
+417,12 years,Carlow County Council,908
+418,12 years,Dublin City Council,6284
+419,12 years,Dún Laoghaire Rathdown County Council,2991
+420,12 years,Fingal County Council,5792
+421,12 years,South Dublin County Council,4855
+422,12 years,Kildare County Council,4041
+423,12 years,Kilkenny County Council,1600
+424,12 years,Laois County Council,1625
+425,12 years,Longford County Council,731
+426,12 years,Louth County Council,2211
+427,12 years,Meath County Council,3876
+428,12 years,Offaly County Council,1300
+429,12 years,Westmeath County Council,1466
+430,12 years,Wexford County Council,2443
+431,12 years,Wicklow County Council,2525
+432,12 years,Clare County Council,1983
+433,12 years,Cork City Council,2690
+434,12 years,Cork County Council,5901
+435,12 years,Kerry County Council,2255
+436,12 years,Limerick City & County Council,2883
+437,12 years,Tipperary County Council,2571
+438,12 years,Waterford City & County Council,1933
+439,12 years,Galway City Council,881
+440,12 years,Galway County Council,2943
+441,12 years,Leitrim County Council,532
+442,12 years,Mayo  County Council,1962
+443,12 years,Roscommon County Council,1047
+444,12 years,Sligo County Council,1027
+445,12 years,Cavan County Council,1317
+446,12 years,Donegal County Council,2624
+447,12 years,Monaghan County Council,1057
+448,13 years,Ireland,75256
+449,13 years,Carlow County Council,943
+450,13 years,Dublin City Council,6039
+451,13 years,Dún Laoghaire Rathdown County Council,2976
+452,13 years,Fingal County Council,5485
+453,13 years,South Dublin County Council,4677
+454,13 years,Kildare County Council,3967
+455,13 years,Kilkenny County Council,1612
+456,13 years,Laois County Council,1533
+457,13 years,Longford County Council,763
+458,13 years,Louth County Council,2303
+459,13 years,Meath County Council,3785
+460,13 years,Offaly County Council,1356
+461,13 years,Westmeath County Council,1426
+462,13 years,Wexford County Council,2621
+463,13 years,Wicklow County Council,2447
+464,13 years,Clare County Council,1874
+465,13 years,Cork City Council,2594
+466,13 years,Cork County Council,5833
+467,13 years,Kerry County Council,2194
+468,13 years,Limerick City & County Council,2951
+469,13 years,Tipperary County Council,2502
+470,13 years,Waterford City & County Council,1927
+471,13 years,Galway City Council,979
+472,13 years,Galway County Council,3039
+473,13 years,Leitrim County Council,497
+474,13 years,Mayo  County Council,1888
+475,13 years,Roscommon County Council,1037
+476,13 years,Sligo County Council,983
+477,13 years,Cavan County Council,1343
+478,13 years,Donegal County Council,2632
+479,13 years,Monaghan County Council,1050
+480,14 years,Ireland,73432
+481,14 years,Carlow County Council,951
+482,14 years,Dublin City Council,5748
+483,14 years,Dún Laoghaire Rathdown County Council,2917
+484,14 years,Fingal County Council,5298
+485,14 years,South Dublin County Council,4581
+486,14 years,Kildare County Council,3944
+487,14 years,Kilkenny County Council,1547
+488,14 years,Laois County Council,1553
+489,14 years,Longford County Council,724
+490,14 years,Louth County Council,2161
+491,14 years,Meath County Council,3694
+492,14 years,Offaly County Council,1276
+493,14 years,Westmeath County Council,1422
+494,14 years,Wexford County Council,2413
+495,14 years,Wicklow County Council,2484
+496,14 years,Clare County Council,1848
+497,14 years,Cork City Council,2541
+498,14 years,Cork County Council,5634
+499,14 years,Kerry County Council,2200
+500,14 years,Limerick City & County Council,2898
+501,14 years,Tipperary County Council,2522
+502,14 years,Waterford City & County Council,1856
+503,14 years,Galway City Council,881
+504,14 years,Galway County Council,3044
+505,14 years,Leitrim County Council,495
+506,14 years,Mayo  County Council,1916
+507,14 years,Roscommon County Council,996
+508,14 years,Sligo County Council,992
+509,14 years,Cavan County Council,1262
+510,14 years,Donegal County Council,2610
+511,14 years,Monaghan County Council,1024
+512,15 years,Ireland,70440
+513,15 years,Carlow County Council,843
+514,15 years,Dublin City Council,5442
+515,15 years,Dún Laoghaire Rathdown County Council,2775
+516,15 years,Fingal County Council,4948
+517,15 years,South Dublin County Council,4273
+518,15 years,Kildare County Council,3750
+519,15 years,Kilkenny County Council,1588
+520,15 years,Laois County Council,1474
+521,15 years,Longford County Council,742
+522,15 years,Louth County Council,2140
+523,15 years,Meath County Council,3500
+524,15 years,Offaly County Council,1252
+525,15 years,Westmeath County Council,1362
+526,15 years,Wexford County Council,2361
+527,15 years,Wicklow County Council,2320
+528,15 years,Clare County Council,1888
+529,15 years,Cork City Council,2551
+530,15 years,Cork County Council,5424
+531,15 years,Kerry County Council,2128
+532,15 years,Limerick City & County Council,2744
+533,15 years,Tipperary County Council,2428
+534,15 years,Waterford City & County Council,1826
+535,15 years,Galway City Council,877
+536,15 years,Galway County Council,2775
+537,15 years,Leitrim County Council,528
+538,15 years,Mayo  County Council,1840
+539,15 years,Roscommon County Council,1002
+540,15 years,Sligo County Council,954
+541,15 years,Cavan County Council,1271
+542,15 years,Donegal County Council,2473
+543,15 years,Monaghan County Council,961
+544,16 years,Ireland,67814
+545,16 years,Carlow County Council,873
+546,16 years,Dublin City Council,5408
+547,16 years,Dún Laoghaire Rathdown County Council,2733
+548,16 years,Fingal County Council,4531
+549,16 years,South Dublin County Council,4082
+550,16 years,Kildare County Council,3516
+551,16 years,Kilkenny County Council,1456
+552,16 years,Laois County Council,1313
+553,16 years,Longford County Council,667
+554,16 years,Louth County Council,2071
+555,16 years,Meath County Council,3275
+556,16 years,Offaly County Council,1166
+557,16 years,Westmeath County Council,1348
+558,16 years,Wexford County Council,2305
+559,16 years,Wicklow County Council,2131
+560,16 years,Clare County Council,1850
+561,16 years,Cork City Council,2421
+562,16 years,Cork County Council,5171
+563,16 years,Kerry County Council,2007
+564,16 years,Limerick City & County Council,2727
+565,16 years,Tipperary County Council,2312
+566,16 years,Waterford City & County Council,1811
+567,16 years,Galway City Council,862
+568,16 years,Galway County Council,2963
+569,16 years,Leitrim County Council,494
+570,16 years,Mayo  County Council,1878
+571,16 years,Roscommon County Council,1014
+572,16 years,Sligo County Council,916
+573,16 years,Cavan County Council,1161
+574,16 years,Donegal County Council,2441
+575,16 years,Monaghan County Council,911
+576,17 years,Ireland,68026
+577,17 years,Carlow County Council,877
+578,17 years,Dublin City Council,5640
+579,17 years,Dún Laoghaire Rathdown County Council,2772
+580,17 years,Fingal County Council,4566
+581,17 years,South Dublin County Council,4112
+582,17 years,Kildare County Council,3618
+583,17 years,Kilkenny County Council,1465
+584,17 years,Laois County Council,1421
+585,17 years,Longford County Council,645
+586,17 years,Louth County Council,2041
+587,17 years,Meath County Council,3195
+588,17 years,Offaly County Council,1162
+589,17 years,Westmeath County Council,1328
+590,17 years,Wexford County Council,2266
+591,17 years,Wicklow County Council,2232
+592,17 years,Clare County Council,1844
+593,17 years,Cork City Council,2447
+594,17 years,Cork County Council,5105
+595,17 years,Kerry County Council,2103
+596,17 years,Limerick City & County Council,2615
+597,17 years,Tipperary County Council,2456
+598,17 years,Waterford City & County Council,1725
+599,17 years,Galway City Council,854
+600,17 years,Galway County Council,2786
+601,17 years,Leitrim County Council,496
+602,17 years,Mayo  County Council,1831
+603,17 years,Roscommon County Council,963
+604,17 years,Sligo County Council,933
+605,17 years,Cavan County Council,1186
+606,17 years,Donegal County Council,2366
+607,17 years,Monaghan County Council,976
+608,18 years,Ireland,66752
+609,18 years,Carlow County Council,903
+610,18 years,Dublin City Council,6434
+611,18 years,Dún Laoghaire Rathdown County Council,2938
+612,18 years,Fingal County Council,4473
+613,18 years,South Dublin County Council,3971
+614,18 years,Kildare County Council,3596
+615,18 years,Kilkenny County Council,1414
+616,18 years,Laois County Council,1299
+617,18 years,Longford County Council,609
+618,18 years,Louth County Council,1952
+619,18 years,Meath County Council,3089
+620,18 years,Offaly County Council,1221
+621,18 years,Westmeath County Council,1264
+622,18 years,Wexford County Council,2226
+623,18 years,Wicklow County Council,2012
+624,18 years,Clare County Council,1690
+625,18 years,Cork City Council,2648
+626,18 years,Cork County Council,4786
+627,18 years,Kerry County Council,1928
+628,18 years,Limerick City & County Council,2701
+629,18 years,Tipperary County Council,2135
+630,18 years,Waterford City & County Council,1699
+631,18 years,Galway City Council,1033
+632,18 years,Galway County Council,2546
+633,18 years,Leitrim County Council,449
+634,18 years,Mayo  County Council,1749
+635,18 years,Roscommon County Council,899
+636,18 years,Sligo County Council,897
+637,18 years,Cavan County Council,1107
+638,18 years,Donegal County Council,2285
+639,18 years,Monaghan County Council,799
+640,19 years,Ireland,64596
+641,19 years,Carlow County Council,827
+642,19 years,Dublin City Council,7345
+643,19 years,Dún Laoghaire Rathdown County Council,3236
+644,19 years,Fingal County Council,4358
+645,19 years,South Dublin County Council,3952
+646,19 years,Kildare County Council,3490
+647,19 years,Kilkenny County Council,1125
+648,19 years,Laois County Council,1130
+649,19 years,Longford County Council,563
+650,19 years,Louth County Council,1770
+651,19 years,Meath County Council,2892
+652,19 years,Offaly County Council,1018
+653,19 years,Westmeath County Council,1117
+654,19 years,Wexford County Council,1813
+655,19 years,Wicklow County Council,1865
+656,19 years,Clare County Council,1650
+657,19 years,Cork City Council,3405
+658,19 years,Cork County Council,4230
+659,19 years,Kerry County Council,1678
+660,19 years,Limerick City & County Council,2889
+661,19 years,Tipperary County Council,1776
+662,19 years,Waterford City & County Council,1593
+663,19 years,Galway City Council,1764
+664,19 years,Galway County Council,2251
+665,19 years,Leitrim County Council,329
+666,19 years,Mayo  County Council,1418
+667,19 years,Roscommon County Council,728
+668,19 years,Sligo County Council,922
+669,19 years,Cavan County Council,915
+670,19 years,Donegal County Council,1813
+671,19 years,Monaghan County Council,734
+672,20 years,Ireland,63744
+673,20 years,Carlow County Council,810
+674,20 years,Dublin City Council,8103
+675,20 years,Dún Laoghaire Rathdown County Council,3277
+676,20 years,Fingal County Council,4153
+677,20 years,South Dublin County Council,3700
+678,20 years,Kildare County Council,3333
+679,20 years,Kilkenny County Council,1089
+680,20 years,Laois County Council,1047
+681,20 years,Longford County Council,561
+682,20 years,Louth County Council,1917
+683,20 years,Meath County Council,2730
+684,20 years,Offaly County Council,991
+685,20 years,Westmeath County Council,1105
+686,20 years,Wexford County Council,1764
+687,20 years,Wicklow County Council,1716
+688,20 years,Clare County Council,1567
+689,20 years,Cork City Council,3541
+690,20 years,Cork County Council,3787
+691,20 years,Kerry County Council,1630
+692,20 years,Limerick City & County Council,2932
+693,20 years,Tipperary County Council,1823
+694,20 years,Waterford City & County Council,1564
+695,20 years,Galway City Council,2024
+696,20 years,Galway County Council,2052
+697,20 years,Leitrim County Council,344
+698,20 years,Mayo  County Council,1310
+699,20 years,Roscommon County Council,696
+700,20 years,Sligo County Council,877
+701,20 years,Cavan County Council,843
+702,20 years,Donegal County Council,1805
+703,20 years,Monaghan County Council,653
+704,21 years,Ireland,60661
+705,21 years,Carlow County Council,813
+706,21 years,Dublin City Council,8140
+707,21 years,Dún Laoghaire Rathdown County Council,3085
+708,21 years,Fingal County Council,3792
+709,21 years,South Dublin County Council,3683
+710,21 years,Kildare County Council,3050
+711,21 years,Kilkenny County Council,1045
+712,21 years,Laois County Council,1025
+713,21 years,Longford County Council,507
+714,21 years,Louth County Council,1711
+715,21 years,Meath County Council,2546
+716,21 years,Offaly County Council,882
+717,21 years,Westmeath County Council,1097
+718,21 years,Wexford County Council,1582
+719,21 years,Wicklow County Council,1623
+720,21 years,Clare County Council,1352
+721,21 years,Cork City Council,3518
+722,21 years,Cork County Council,3571
+723,21 years,Kerry County Council,1518
+724,21 years,Limerick City & County Council,2657
+725,21 years,Tipperary County Council,1755
+726,21 years,Waterford City & County Council,1481
+727,21 years,Galway City Council,2084
+728,21 years,Galway County Council,1850
+729,21 years,Leitrim County Council,277
+730,21 years,Mayo  County Council,1263
+731,21 years,Roscommon County Council,688
+732,21 years,Sligo County Council,858
+733,21 years,Cavan County Council,832
+734,21 years,Donegal County Council,1708
+735,21 years,Monaghan County Council,668
+736,22 years,Ireland,62218
+737,22 years,Carlow County Council,769
+738,22 years,Dublin City Council,9091
+739,22 years,Dún Laoghaire Rathdown County Council,3242
+740,22 years,Fingal County Council,3827
+741,22 years,South Dublin County Council,3724
+742,22 years,Kildare County Council,2890
+743,22 years,Kilkenny County Council,993
+744,22 years,Laois County Council,994
+745,22 years,Longford County Council,516
+746,22 years,Louth County Council,1718
+747,22 years,Meath County Council,2430
+748,22 years,Offaly County Council,915
+749,22 years,Westmeath County Council,1103
+750,22 years,Wexford County Council,1766
+751,22 years,Wicklow County Council,1659
+752,22 years,Clare County Council,1503
+753,22 years,Cork City Council,3677
+754,22 years,Cork County Council,3552
+755,22 years,Kerry County Council,1556
+756,22 years,Limerick City & County Council,2951
+757,22 years,Tipperary County Council,1782
+758,22 years,Waterford City & County Council,1471
+759,22 years,Galway City Council,1964
+760,22 years,Galway County Council,1776
+761,22 years,Leitrim County Council,322
+762,22 years,Mayo  County Council,1294
+763,22 years,Roscommon County Council,665
+764,22 years,Sligo County Council,815
+765,22 years,Cavan County Council,855
+766,22 years,Donegal County Council,1731
+767,22 years,Monaghan County Council,667
+768,23 years,Ireland,60922
+769,23 years,Carlow County Council,720
+770,23 years,Dublin City Council,9981
+771,23 years,Dún Laoghaire Rathdown County Council,3247
+772,23 years,Fingal County Council,3733
+773,23 years,South Dublin County Council,3783
+774,23 years,Kildare County Council,2860
+775,23 years,Kilkenny County Council,994
+776,23 years,Laois County Council,961
+777,23 years,Longford County Council,498
+778,23 years,Louth County Council,1579
+779,23 years,Meath County Council,2320
+780,23 years,Offaly County Council,894
+781,23 years,Westmeath County Council,1052
+782,23 years,Wexford County Council,1722
+783,23 years,Wicklow County Council,1535
+784,23 years,Clare County Council,1281
+785,23 years,Cork City Council,3500
+786,23 years,Cork County Council,3388
+787,23 years,Kerry County Council,1597
+788,23 years,Limerick City & County Council,2597
+789,23 years,Tipperary County Council,1696
+790,23 years,Waterford City & County Council,1462
+791,23 years,Galway City Council,1722
+792,23 years,Galway County Council,1726
+793,23 years,Leitrim County Council,329
+794,23 years,Mayo  County Council,1242
+795,23 years,Roscommon County Council,643
+796,23 years,Sligo County Council,752
+797,23 years,Cavan County Council,875
+798,23 years,Donegal County Council,1571
+799,23 years,Monaghan County Council,662
+800,24 years,Ireland,59598
+801,24 years,Carlow County Council,669
+802,24 years,Dublin City Council,10592
+803,24 years,Dún Laoghaire Rathdown County Council,3169
+804,24 years,Fingal County Council,3592
+805,24 years,South Dublin County Council,3650
+806,24 years,Kildare County Council,2675
+807,24 years,Kilkenny County Council,1036
+808,24 years,Laois County Council,905
+809,24 years,Longford County Council,446
+810,24 years,Louth County Council,1469
+811,24 years,Meath County Council,2253
+812,24 years,Offaly County Council,887
+813,24 years,Westmeath County Council,1077
+814,24 years,Wexford County Council,1595
+815,24 years,Wicklow County Council,1408
+816,24 years,Clare County Council,1255
+817,24 years,Cork City Council,3417
+818,24 years,Cork County Council,3263
+819,24 years,Kerry County Council,1482
+820,24 years,Limerick City & County Council,2545
+821,24 years,Tipperary County Council,1709
+822,24 years,Waterford City & County Council,1349
+823,24 years,Galway City Council,1727
+824,24 years,Galway County Council,1651
+825,24 years,Leitrim County Council,272
+826,24 years,Mayo  County Council,1159
+827,24 years,Roscommon County Council,561
+828,24 years,Sligo County Council,737
+829,24 years,Cavan County Council,827
+830,24 years,Donegal County Council,1557
+831,24 years,Monaghan County Council,664
+832,25 years,Ireland,59263
+833,25 years,Carlow County Council,625
+834,25 years,Dublin City Council,11301
+835,25 years,Dún Laoghaire Rathdown County Council,3110
+836,25 years,Fingal County Council,3627
+837,25 years,South Dublin County Council,3634
+838,25 years,Kildare County Council,2651
+839,25 years,Kilkenny County Council,1002
+840,25 years,Laois County Council,851
+841,25 years,Longford County Council,441
+842,25 years,Louth County Council,1415
+843,25 years,Meath County Council,2042
+844,25 years,Offaly County Council,854
+845,25 years,Westmeath County Council,1041
+846,25 years,Wexford County Council,1537
+847,25 years,Wicklow County Council,1345
+848,25 years,Clare County Council,1258
+849,25 years,Cork City Council,3512
+850,25 years,Cork County Council,3092
+851,25 years,Kerry County Council,1480
+852,25 years,Limerick City & County Council,2626
+853,25 years,Tipperary County Council,1622
+854,25 years,Waterford City & County Council,1267
+855,25 years,Galway City Council,1651
+856,25 years,Galway County Council,1620
+857,25 years,Leitrim County Council,286
+858,25 years,Mayo  County Council,1136
+859,25 years,Roscommon County Council,612
+860,25 years,Sligo County Council,710
+861,25 years,Cavan County Council,841
+862,25 years,Donegal County Council,1476
+863,25 years,Monaghan County Council,598
+864,26 years,Ireland,58240
+865,26 years,Carlow County Council,663
+866,26 years,Dublin City Council,11664
+867,26 years,Dún Laoghaire Rathdown County Council,3065
+868,26 years,Fingal County Council,3581
+869,26 years,South Dublin County Council,3394
+870,26 years,Kildare County Council,2443
+871,26 years,Kilkenny County Council,966
+872,26 years,Laois County Council,892
+873,26 years,Longford County Council,487
+874,26 years,Louth County Council,1339
+875,26 years,Meath County Council,2007
+876,26 years,Offaly County Council,790
+877,26 years,Westmeath County Council,1038
+878,26 years,Wexford County Council,1580
+879,26 years,Wicklow County Council,1380
+880,26 years,Clare County Council,1179
+881,26 years,Cork City Council,3390
+882,26 years,Cork County Council,3074
+883,26 years,Kerry County Council,1368
+884,26 years,Limerick City & County Council,2557
+885,26 years,Tipperary County Council,1530
+886,26 years,Waterford City & County Council,1264
+887,26 years,Galway City Council,1522
+888,26 years,Galway County Council,1549
+889,26 years,Leitrim County Council,282
+890,26 years,Mayo  County Council,1128
+891,26 years,Roscommon County Council,580
+892,26 years,Sligo County Council,629
+893,26 years,Cavan County Council,777
+894,26 years,Donegal County Council,1507
+895,26 years,Monaghan County Council,615
+896,27 years,Ireland,58690
+897,27 years,Carlow County Council,658
+898,27 years,Dublin City Council,11941
+899,27 years,Dún Laoghaire Rathdown County Council,2989
+900,27 years,Fingal County Council,3641
+901,27 years,South Dublin County Council,3538
+902,27 years,Kildare County Council,2585
+903,27 years,Kilkenny County Council,972
+904,27 years,Laois County Council,897
+905,27 years,Longford County Council,462
+906,27 years,Louth County Council,1462
+907,27 years,Meath County Council,2037
+908,27 years,Offaly County Council,822
+909,27 years,Westmeath County Council,1029
+910,27 years,Wexford County Council,1582
+911,27 years,Wicklow County Council,1400
+912,27 years,Clare County Council,1180
+913,27 years,Cork City Council,3461
+914,27 years,Cork County Council,3045
+915,27 years,Kerry County Council,1411
+916,27 years,Limerick City & County Council,2467
+917,27 years,Tipperary County Council,1547
+918,27 years,Waterford City & County Council,1304
+919,27 years,Galway City Council,1435
+920,27 years,Galway County Council,1405
+921,27 years,Leitrim County Council,275
+922,27 years,Mayo  County Council,1115
+923,27 years,Roscommon County Council,568
+924,27 years,Sligo County Council,631
+925,27 years,Cavan County Council,750
+926,27 years,Donegal County Council,1442
+927,27 years,Monaghan County Council,639
+928,28 years,Ireland,58690
+929,28 years,Carlow County Council,633
+930,28 years,Dublin City Council,12020
+931,28 years,Dún Laoghaire Rathdown County Council,2869
+932,28 years,Fingal County Council,3597
+933,28 years,South Dublin County Council,3546
+934,28 years,Kildare County Council,2558
+935,28 years,Kilkenny County Council,1016
+936,28 years,Laois County Council,871
+937,28 years,Longford County Council,442
+938,28 years,Louth County Council,1498
+939,28 years,Meath County Council,2096
+940,28 years,Offaly County Council,829
+941,28 years,Westmeath County Council,972
+942,28 years,Wexford County Council,1537
+943,28 years,Wicklow County Council,1443
+944,28 years,Clare County Council,1187
+945,28 years,Cork City Council,3461
+946,28 years,Cork County Council,3066
+947,28 years,Kerry County Council,1345
+948,28 years,Limerick City & County Council,2373
+949,28 years,Tipperary County Council,1576
+950,28 years,Waterford City & County Council,1262
+951,28 years,Galway City Council,1458
+952,28 years,Galway County Council,1554
+953,28 years,Leitrim County Council,291
+954,28 years,Mayo  County Council,1180
+955,28 years,Roscommon County Council,580
+956,28 years,Sligo County Council,615
+957,28 years,Cavan County Council,752
+958,28 years,Donegal County Council,1475
+959,28 years,Monaghan County Council,588
+960,29 years,Ireland,60925
+961,29 years,Carlow County Council,713
+962,29 years,Dublin City Council,12132
+963,29 years,Dún Laoghaire Rathdown County Council,2897
+964,29 years,Fingal County Council,3797
+965,29 years,South Dublin County Council,3636
+966,29 years,Kildare County Council,2715
+967,29 years,Kilkenny County Council,1089
+968,29 years,Laois County Council,901
+969,29 years,Longford County Council,461
+970,29 years,Louth County Council,1505
+971,29 years,Meath County Council,2169
+972,29 years,Offaly County Council,842
+973,29 years,Westmeath County Council,1095
+974,29 years,Wexford County Council,1629
+975,29 years,Wicklow County Council,1499
+976,29 years,Clare County Council,1188
+977,29 years,Cork City Council,3467
+978,29 years,Cork County Council,3242
+979,29 years,Kerry County Council,1443
+980,29 years,Limerick City & County Council,2490
+981,29 years,Tipperary County Council,1620
+982,29 years,Waterford City & County Council,1320
+983,29 years,Galway City Council,1468
+984,29 years,Galway County Council,1712
+985,29 years,Leitrim County Council,301
+986,29 years,Mayo  County Council,1257
+987,29 years,Roscommon County Council,629
+988,29 years,Sligo County Council,707
+989,29 years,Cavan County Council,791
+990,29 years,Donegal County Council,1536
+991,29 years,Monaghan County Council,674
+992,30 years,Ireland,63699
+993,30 years,Carlow County Council,705
+994,30 years,Dublin City Council,12341
+995,30 years,Dún Laoghaire Rathdown County Council,3112
+996,30 years,Fingal County Council,3976
+997,30 years,South Dublin County Council,3821
+998,30 years,Kildare County Council,2860
+999,30 years,Kilkenny County Council,1065
+1000,30 years,Laois County Council,987
+1001,30 years,Longford County Council,550
+1002,30 years,Louth County Council,1570
+1003,30 years,Meath County Council,2353
+1004,30 years,Offaly County Council,940
+1005,30 years,Westmeath County Council,1098
+1006,30 years,Wexford County Council,1817
+1007,30 years,Wicklow County Council,1525
+1008,30 years,Clare County Council,1209
+1009,30 years,Cork City Council,3437
+1010,30 years,Cork County Council,3545
+1011,30 years,Kerry County Council,1591
+1012,30 years,Limerick City & County Council,2515
+1013,30 years,Tipperary County Council,1744
+1014,30 years,Waterford City & County Council,1434
+1015,30 years,Galway City Council,1402
+1016,30 years,Galway County Council,1803
+1017,30 years,Leitrim County Council,336
+1018,30 years,Mayo  County Council,1353
+1019,30 years,Roscommon County Council,675
+1020,30 years,Sligo County Council,668
+1021,30 years,Cavan County Council,841
+1022,30 years,Donegal County Council,1694
+1023,30 years,Monaghan County Council,732
+1024,31 years,Ireland,65947
+1025,31 years,Carlow County Council,739
+1026,31 years,Dublin City Council,12366
+1027,31 years,Dún Laoghaire Rathdown County Council,3065
+1028,31 years,Fingal County Council,4241
+1029,31 years,South Dublin County Council,3963
+1030,31 years,Kildare County Council,2990
+1031,31 years,Kilkenny County Council,1213
+1032,31 years,Laois County Council,1021
+1033,31 years,Longford County Council,484
+1034,31 years,Louth County Council,1676
+1035,31 years,Meath County Council,2583
+1036,31 years,Offaly County Council,925
+1037,31 years,Westmeath County Council,1192
+1038,31 years,Wexford County Council,1859
+1039,31 years,Wicklow County Council,1673
+1040,31 years,Clare County Council,1331
+1041,31 years,Cork City Council,3581
+1042,31 years,Cork County Council,3695
+1043,31 years,Kerry County Council,1585
+1044,31 years,Limerick City & County Council,2522
+1045,31 years,Tipperary County Council,1775
+1046,31 years,Waterford City & County Council,1461
+1047,31 years,Galway City Council,1464
+1048,31 years,Galway County Council,1930
+1049,31 years,Leitrim County Council,366
+1050,31 years,Mayo  County Council,1456
+1051,31 years,Roscommon County Council,728
+1052,31 years,Sligo County Council,695
+1053,31 years,Cavan County Council,907
+1054,31 years,Donegal County Council,1723
+1055,31 years,Monaghan County Council,738
+1056,32 years,Ireland,66795
+1057,32 years,Carlow County Council,746
+1058,32 years,Dublin City Council,12044
+1059,32 years,Dún Laoghaire Rathdown County Council,3165
+1060,32 years,Fingal County Council,4328
+1061,32 years,South Dublin County Council,4048
+1062,32 years,Kildare County Council,3013
+1063,32 years,Kilkenny County Council,1150
+1064,32 years,Laois County Council,1089
+1065,32 years,Longford County Council,538
+1066,32 years,Louth County Council,1655
+1067,32 years,Meath County Council,2681
+1068,32 years,Offaly County Council,923
+1069,32 years,Westmeath County Council,1195
+1070,32 years,Wexford County Council,1882
+1071,32 years,Wicklow County Council,1702
+1072,32 years,Clare County Council,1330
+1073,32 years,Cork City Council,3564
+1074,32 years,Cork County Council,3841
+1075,32 years,Kerry County Council,1697
+1076,32 years,Limerick City & County Council,2672
+1077,32 years,Tipperary County Council,1814
+1078,32 years,Waterford City & County Council,1550
+1079,32 years,Galway City Council,1354
+1080,32 years,Galway County Council,1954
+1081,32 years,Leitrim County Council,380
+1082,32 years,Mayo  County Council,1430
+1083,32 years,Roscommon County Council,736
+1084,32 years,Sligo County Council,742
+1085,32 years,Cavan County Council,996
+1086,32 years,Donegal County Council,1863
+1087,32 years,Monaghan County Council,713
+1088,33 years,Ireland,66377
+1089,33 years,Carlow County Council,750
+1090,33 years,Dublin City Council,11434
+1091,33 years,Dún Laoghaire Rathdown County Council,3023
+1092,33 years,Fingal County Council,4596
+1093,33 years,South Dublin County Council,4079
+1094,33 years,Kildare County Council,3187
+1095,33 years,Kilkenny County Council,1131
+1096,33 years,Laois County Council,1121
+1097,33 years,Longford County Council,549
+1098,33 years,Louth County Council,1736
+1099,33 years,Meath County Council,2655
+1100,33 years,Offaly County Council,934
+1101,33 years,Westmeath County Council,1189
+1102,33 years,Wexford County Council,1830
+1103,33 years,Wicklow County Council,1780
+1104,33 years,Clare County Council,1338
+1105,33 years,Cork City Council,3338
+1106,33 years,Cork County Council,3933
+1107,33 years,Kerry County Council,1674
+1108,33 years,Limerick City & County Council,2623
+1109,33 years,Tipperary County Council,1829
+1110,33 years,Waterford City & County Council,1462
+1111,33 years,Galway City Council,1222
+1112,33 years,Galway County Council,2096
+1113,33 years,Leitrim County Council,379
+1114,33 years,Mayo  County Council,1519
+1115,33 years,Roscommon County Council,732
+1116,33 years,Sligo County Council,753
+1117,33 years,Cavan County Council,955
+1118,33 years,Donegal County Council,1829
+1119,33 years,Monaghan County Council,701
+1120,34 years,Ireland,69405
+1121,34 years,Carlow County Council,774
+1122,34 years,Dublin City Council,11048
+1123,34 years,Dún Laoghaire Rathdown County Council,3044
+1124,34 years,Fingal County Council,4787
+1125,34 years,South Dublin County Council,4370
+1126,34 years,Kildare County Council,3343
+1127,34 years,Kilkenny County Council,1230
+1128,34 years,Laois County Council,1179
+1129,34 years,Longford County Council,628
+1130,34 years,Louth County Council,1831
+1131,34 years,Meath County Council,2906
+1132,34 years,Offaly County Council,1035
+1133,34 years,Westmeath County Council,1238
+1134,34 years,Wexford County Council,2019
+1135,34 years,Wicklow County Council,1846
+1136,34 years,Clare County Council,1455
+1137,34 years,Cork City Council,3410
+1138,34 years,Cork County Council,4254
+1139,34 years,Kerry County Council,1724
+1140,34 years,Limerick City & County Council,2738
+1141,34 years,Tipperary County Council,1963
+1142,34 years,Waterford City & County Council,1557
+1143,34 years,Galway City Council,1332
+1144,34 years,Galway County Council,2233
+1145,34 years,Leitrim County Council,409
+1146,34 years,Mayo  County Council,1634
+1147,34 years,Roscommon County Council,782
+1148,34 years,Sligo County Council,786
+1149,34 years,Cavan County Council,988
+1150,34 years,Donegal County Council,2023
+1151,34 years,Monaghan County Council,839
+1152,35 years,Ireland,72635
+1153,35 years,Carlow County Council,833
+1154,35 years,Dublin City Council,10932
+1155,35 years,Dún Laoghaire Rathdown County Council,3054
+1156,35 years,Fingal County Council,5012
+1157,35 years,South Dublin County Council,4463
+1158,35 years,Kildare County Council,3586
+1159,35 years,Kilkenny County Council,1375
+1160,35 years,Laois County Council,1353
+1161,35 years,Longford County Council,613
+1162,35 years,Louth County Council,1912
+1163,35 years,Meath County Council,3156
+1164,35 years,Offaly County Council,1074
+1165,35 years,Westmeath County Council,1397
+1166,35 years,Wexford County Council,2138
+1167,35 years,Wicklow County Council,1983
+1168,35 years,Clare County Council,1516
+1169,35 years,Cork City Council,3467
+1170,35 years,Cork County Council,4611
+1171,35 years,Kerry County Council,1862
+1172,35 years,Limerick City & County Council,2872
+1173,35 years,Tipperary County Council,2157
+1174,35 years,Waterford City & County Council,1745
+1175,35 years,Galway City Council,1277
+1176,35 years,Galway County Council,2431
+1177,35 years,Leitrim County Council,443
+1178,35 years,Mayo  County Council,1692
+1179,35 years,Roscommon County Council,896
+1180,35 years,Sligo County Council,840
+1181,35 years,Cavan County Council,1079
+1182,35 years,Donegal County Council,2016
+1183,35 years,Monaghan County Council,850
+1184,36 years,Ireland,74858
+1185,36 years,Carlow County Council,835
+1186,36 years,Dublin City Council,10619
+1187,36 years,Dún Laoghaire Rathdown County Council,3188
+1188,36 years,Fingal County Council,5327
+1189,36 years,South Dublin County Council,4843
+1190,36 years,Kildare County Council,3748
+1191,36 years,Kilkenny County Council,1342
+1192,36 years,Laois County Council,1384
+1193,36 years,Longford County Council,678
+1194,36 years,Louth County Council,1980
+1195,36 years,Meath County Council,3249
+1196,36 years,Offaly County Council,1102
+1197,36 years,Westmeath County Council,1502
+1198,36 years,Wexford County Council,2131
+1199,36 years,Wicklow County Council,2102
+1200,36 years,Clare County Council,1593
+1201,36 years,Cork City Council,3461
+1202,36 years,Cork County Council,4782
+1203,36 years,Kerry County Council,2024
+1204,36 years,Limerick City & County Council,3012
+1205,36 years,Tipperary County Council,2146
+1206,36 years,Waterford City & County Council,1737
+1207,36 years,Galway City Council,1332
+1208,36 years,Galway County Council,2494
+1209,36 years,Leitrim County Council,451
+1210,36 years,Mayo  County Council,1780
+1211,36 years,Roscommon County Council,924
+1212,36 years,Sligo County Council,935
+1213,36 years,Cavan County Council,1151
+1214,36 years,Donegal County Council,2112
+1215,36 years,Monaghan County Council,894
+1216,37 years,Ireland,75620
+1217,37 years,Carlow County Council,908
+1218,37 years,Dublin City Council,10110
+1219,37 years,Dún Laoghaire Rathdown County Council,3237
+1220,37 years,Fingal County Council,5336
+1221,37 years,South Dublin County Council,4868
+1222,37 years,Kildare County Council,3846
+1223,37 years,Kilkenny County Council,1365
+1224,37 years,Laois County Council,1441
+1225,37 years,Longford County Council,620
+1226,37 years,Louth County Council,1922
+1227,37 years,Meath County Council,3332
+1228,37 years,Offaly County Council,1161
+1229,37 years,Westmeath County Council,1438
+1230,37 years,Wexford County Council,2177
+1231,37 years,Wicklow County Council,2267
+1232,37 years,Clare County Council,1711
+1233,37 years,Cork City Council,3631
+1234,37 years,Cork County Council,4966
+1235,37 years,Kerry County Council,2070
+1236,37 years,Limerick City & County Council,3023
+1237,37 years,Tipperary County Council,2159
+1238,37 years,Waterford City & County Council,1712
+1239,37 years,Galway City Council,1307
+1240,37 years,Galway County Council,2597
+1241,37 years,Leitrim County Council,445
+1242,37 years,Mayo  County Council,1872
+1243,37 years,Roscommon County Council,949
+1244,37 years,Sligo County Council,938
+1245,37 years,Cavan County Council,1182
+1246,37 years,Donegal County Council,2106
+1247,37 years,Monaghan County Council,924
+1248,38 years,Ireland,78415
+1249,38 years,Carlow County Council,948
+1250,38 years,Dublin City Council,10136
+1251,38 years,Dún Laoghaire Rathdown County Council,3445
+1252,38 years,Fingal County Council,5608
+1253,38 years,South Dublin County Council,4929
+1254,38 years,Kildare County Council,4003
+1255,38 years,Kilkenny County Council,1486
+1256,38 years,Laois County Council,1538
+1257,38 years,Longford County Council,711
+1258,38 years,Louth County Council,2091
+1259,38 years,Meath County Council,3457
+1260,38 years,Offaly County Council,1175
+1261,38 years,Westmeath County Council,1451
+1262,38 years,Wexford County Council,2306
+1263,38 years,Wicklow County Council,2354
+1264,38 years,Clare County Council,1818
+1265,38 years,Cork City Council,3465
+1266,38 years,Cork County Council,5184
+1267,38 years,Kerry County Council,2253
+1268,38 years,Limerick City & County Council,3115
+1269,38 years,Tipperary County Council,2318
+1270,38 years,Waterford City & County Council,1805
+1271,38 years,Galway City Council,1331
+1272,38 years,Galway County Council,2751
+1273,38 years,Leitrim County Council,483
+1274,38 years,Mayo  County Council,1855
+1275,38 years,Roscommon County Council,1005
+1276,38 years,Sligo County Council,1016
+1277,38 years,Cavan County Council,1267
+1278,38 years,Donegal County Council,2155
+1279,38 years,Monaghan County Council,956
+1280,39 years,Ireland,81341
+1281,39 years,Carlow County Council,1006
+1282,39 years,Dublin City Council,9898
+1283,39 years,Dún Laoghaire Rathdown County Council,3545
+1284,39 years,Fingal County Council,5927
+1285,39 years,South Dublin County Council,5217
+1286,39 years,Kildare County Council,4331
+1287,39 years,Kilkenny County Council,1588
+1288,39 years,Laois County Council,1601
+1289,39 years,Longford County Council,725
+1290,39 years,Louth County Council,2093
+1291,39 years,Meath County Council,3610
+1292,39 years,Offaly County Council,1249
+1293,39 years,Westmeath County Council,1515
+1294,39 years,Wexford County Council,2308
+1295,39 years,Wicklow County Council,2473
+1296,39 years,Clare County Council,1774
+1297,39 years,Cork City Council,3579
+1298,39 years,Cork County Council,5638
+1299,39 years,Kerry County Council,2251
+1300,39 years,Limerick City & County Council,3230
+1301,39 years,Tipperary County Council,2436
+1302,39 years,Waterford City & County Council,1828
+1303,39 years,Galway City Council,1391
+1304,39 years,Galway County Council,2941
+1305,39 years,Leitrim County Council,495
+1306,39 years,Mayo  County Council,1992
+1307,39 years,Roscommon County Council,979
+1308,39 years,Sligo County Council,1023
+1309,39 years,Cavan County Council,1297
+1310,39 years,Donegal County Council,2358
+1311,39 years,Monaghan County Council,1043
+1312,40 years,Ireland,83444
+1313,40 years,Carlow County Council,981
+1314,40 years,Dublin City Council,9770
+1315,40 years,Dún Laoghaire Rathdown County Council,3646
+1316,40 years,Fingal County Council,6104
+1317,40 years,South Dublin County Council,5397
+1318,40 years,Kildare County Council,4366
+1319,40 years,Kilkenny County Council,1586
+1320,40 years,Laois County Council,1561
+1321,40 years,Longford County Council,805
+1322,40 years,Louth County Council,2289
+1323,40 years,Meath County Council,3714
+1324,40 years,Offaly County Council,1397
+1325,40 years,Westmeath County Council,1504
+1326,40 years,Wexford County Council,2519
+1327,40 years,Wicklow County Council,2576
+1328,40 years,Clare County Council,1906
+1329,40 years,Cork City Council,3629
+1330,40 years,Cork County Council,5802
+1331,40 years,Kerry County Council,2351
+1332,40 years,Limerick City & County Council,3294
+1333,40 years,Tipperary County Council,2523
+1334,40 years,Waterford City & County Council,1876
+1335,40 years,Galway City Council,1394
+1336,40 years,Galway County Council,3095
+1337,40 years,Leitrim County Council,516
+1338,40 years,Mayo  County Council,2069
+1339,40 years,Roscommon County Council,1045
+1340,40 years,Sligo County Council,1029
+1341,40 years,Cavan County Council,1263
+1342,40 years,Donegal County Council,2442
+1343,40 years,Monaghan County Council,995
+1344,41 years,Ireland,85097
+1345,41 years,Carlow County Council,1024
+1346,41 years,Dublin City Council,9839
+1347,41 years,Dún Laoghaire Rathdown County Council,3739
+1348,41 years,Fingal County Council,6243
+1349,41 years,South Dublin County Council,5402
+1350,41 years,Kildare County Council,4450
+1351,41 years,Kilkenny County Council,1670
+1352,41 years,Laois County Council,1629
+1353,41 years,Longford County Council,777
+1354,41 years,Louth County Council,2310
+1355,41 years,Meath County Council,3818
+1356,41 years,Offaly County Council,1318
+1357,41 years,Westmeath County Council,1561
+1358,41 years,Wexford County Council,2613
+1359,41 years,Wicklow County Council,2635
+1360,41 years,Clare County Council,1983
+1361,41 years,Cork City Council,3561
+1362,41 years,Cork County Council,5991
+1363,41 years,Kerry County Council,2393
+1364,41 years,Limerick City & County Council,3345
+1365,41 years,Tipperary County Council,2580
+1366,41 years,Waterford City & County Council,1999
+1367,41 years,Galway City Council,1379
+1368,41 years,Galway County Council,3183
+1369,41 years,Leitrim County Council,540
+1370,41 years,Mayo  County Council,2069
+1371,41 years,Roscommon County Council,1100
+1372,41 years,Sligo County Council,1055
+1373,41 years,Cavan County Council,1332
+1374,41 years,Donegal County Council,2487
+1375,41 years,Monaghan County Council,1072
+1376,42 years,Ireland,84981
+1377,42 years,Carlow County Council,1045
+1378,42 years,Dublin City Council,9325
+1379,42 years,Dún Laoghaire Rathdown County Council,3690
+1380,42 years,Fingal County Council,6350
+1381,42 years,South Dublin County Council,5428
+1382,42 years,Kildare County Council,4410
+1383,42 years,Kilkenny County Council,1615
+1384,42 years,Laois County Council,1635
+1385,42 years,Longford County Council,822
+1386,42 years,Louth County Council,2322
+1387,42 years,Meath County Council,3899
+1388,42 years,Offaly County Council,1333
+1389,42 years,Westmeath County Council,1539
+1390,42 years,Wexford County Council,2709
+1391,42 years,Wicklow County Council,2744
+1392,42 years,Clare County Council,2029
+1393,42 years,Cork City Council,3435
+1394,42 years,Cork County Council,6116
+1395,42 years,Kerry County Council,2507
+1396,42 years,Limerick City & County Council,3288
+1397,42 years,Tipperary County Council,2581
+1398,42 years,Waterford City & County Council,2094
+1399,42 years,Galway City Council,1415
+1400,42 years,Galway County Council,3155
+1401,42 years,Leitrim County Council,538
+1402,42 years,Mayo  County Council,2021
+1403,42 years,Roscommon County Council,1079
+1404,42 years,Sligo County Council,1089
+1405,42 years,Cavan County Council,1280
+1406,42 years,Donegal County Council,2512
+1407,42 years,Monaghan County Council,976
+1408,43 years,Ireland,80683
+1409,43 years,Carlow County Council,950
+1410,43 years,Dublin City Council,8851
+1411,43 years,Dún Laoghaire Rathdown County Council,3477
+1412,43 years,Fingal County Council,6013
+1413,43 years,South Dublin County Council,5275
+1414,43 years,Kildare County Council,4235
+1415,43 years,Kilkenny County Council,1612
+1416,43 years,Laois County Council,1460
+1417,43 years,Longford County Council,744
+1418,43 years,Louth County Council,2096
+1419,43 years,Meath County Council,3773
+1420,43 years,Offaly County Council,1236
+1421,43 years,Westmeath County Council,1462
+1422,43 years,Wexford County Council,2445
+1423,43 years,Wicklow County Council,2530
+1424,43 years,Clare County Council,1881
+1425,43 years,Cork City Council,3287
+1426,43 years,Cork County Council,5909
+1427,43 years,Kerry County Council,2387
+1428,43 years,Limerick City & County Council,3152
+1429,43 years,Tipperary County Council,2485
+1430,43 years,Waterford City & County Council,1983
+1431,43 years,Galway City Council,1266
+1432,43 years,Galway County Council,3028
+1433,43 years,Leitrim County Council,526
+1434,43 years,Mayo  County Council,1919
+1435,43 years,Roscommon County Council,1007
+1436,43 years,Sligo County Council,1039
+1437,43 years,Cavan County Council,1243
+1438,43 years,Donegal County Council,2427
+1439,43 years,Monaghan County Council,985
+1440,44 years,Ireland,77319
+1441,44 years,Carlow County Council,907
+1442,44 years,Dublin City Council,8370
+1443,44 years,Dún Laoghaire Rathdown County Council,3246
+1444,44 years,Fingal County Council,5683
+1445,44 years,South Dublin County Council,4623
+1446,44 years,Kildare County Council,3988
+1447,44 years,Kilkenny County Council,1597
+1448,44 years,Laois County Council,1467
+1449,44 years,Longford County Council,674
+1450,44 years,Louth County Council,2109
+1451,44 years,Meath County Council,3614
+1452,44 years,Offaly County Council,1240
+1453,44 years,Westmeath County Council,1394
+1454,44 years,Wexford County Council,2315
+1455,44 years,Wicklow County Council,2515
+1456,44 years,Clare County Council,1871
+1457,44 years,Cork City Council,3103
+1458,44 years,Cork County Council,5667
+1459,44 years,Kerry County Council,2349
+1460,44 years,Limerick City & County Council,3054
+1461,44 years,Tipperary County Council,2382
+1462,44 years,Waterford City & County Council,1940
+1463,44 years,Galway City Council,1213
+1464,44 years,Galway County Council,3027
+1465,44 years,Leitrim County Council,518
+1466,44 years,Mayo  County Council,1911
+1467,44 years,Roscommon County Council,981
+1468,44 years,Sligo County Council,981
+1469,44 years,Cavan County Council,1216
+1470,44 years,Donegal County Council,2426
+1471,44 years,Monaghan County Council,938
+1472,45 years,Ireland,76216
+1473,45 years,Carlow County Council,945
+1474,45 years,Dublin City Council,7914
+1475,45 years,Dún Laoghaire Rathdown County Council,3052
+1476,45 years,Fingal County Council,5650
+1477,45 years,South Dublin County Council,4504
+1478,45 years,Kildare County Council,3966
+1479,45 years,Kilkenny County Council,1551
+1480,45 years,Laois County Council,1422
+1481,45 years,Longford County Council,756
+1482,45 years,Louth County Council,2031
+1483,45 years,Meath County Council,3524
+1484,45 years,Offaly County Council,1219
+1485,45 years,Westmeath County Council,1377
+1486,45 years,Wexford County Council,2421
+1487,45 years,Wicklow County Council,2417
+1488,45 years,Clare County Council,1876
+1489,45 years,Cork City Council,3078
+1490,45 years,Cork County Council,5719
+1491,45 years,Kerry County Council,2264
+1492,45 years,Limerick City & County Council,3059
+1493,45 years,Tipperary County Council,2443
+1494,45 years,Waterford City & County Council,1919
+1495,45 years,Galway City Council,1215
+1496,45 years,Galway County Council,3038
+1497,45 years,Leitrim County Council,506
+1498,45 years,Mayo  County Council,1877
+1499,45 years,Roscommon County Council,951
+1500,45 years,Sligo County Council,1000
+1501,45 years,Cavan County Council,1125
+1502,45 years,Donegal County Council,2428
+1503,45 years,Monaghan County Council,969
+1504,46 years,Ireland,75416
+1505,46 years,Carlow County Council,949
+1506,46 years,Dublin City Council,7704
+1507,46 years,Dún Laoghaire Rathdown County Council,3152
+1508,46 years,Fingal County Council,5452
+1509,46 years,South Dublin County Council,4446
+1510,46 years,Kildare County Council,3946
+1511,46 years,Kilkenny County Council,1620
+1512,46 years,Laois County Council,1376
+1513,46 years,Longford County Council,667
+1514,46 years,Louth County Council,2117
+1515,46 years,Meath County Council,3594
+1516,46 years,Offaly County Council,1241
+1517,46 years,Westmeath County Council,1305
+1518,46 years,Wexford County Council,2289
+1519,46 years,Wicklow County Council,2408
+1520,46 years,Clare County Council,1952
+1521,46 years,Cork City Council,3035
+1522,46 years,Cork County Council,5624
+1523,46 years,Kerry County Council,2273
+1524,46 years,Limerick City & County Council,3023
+1525,46 years,Tipperary County Council,2346
+1526,46 years,Waterford City & County Council,1799
+1527,46 years,Galway City Council,1210
+1528,46 years,Galway County Council,2958
+1529,46 years,Leitrim County Council,490
+1530,46 years,Mayo  County Council,1950
+1531,46 years,Roscommon County Council,1000
+1532,46 years,Sligo County Council,975
+1533,46 years,Cavan County Council,1152
+1534,46 years,Donegal County Council,2428
+1535,46 years,Monaghan County Council,935
+1536,47 years,Ireland,74524
+1537,47 years,Carlow County Council,871
+1538,47 years,Dublin City Council,7408
+1539,47 years,Dún Laoghaire Rathdown County Council,3137
+1540,47 years,Fingal County Council,5484
+1541,47 years,South Dublin County Council,4247
+1542,47 years,Kildare County Council,3857
+1543,47 years,Kilkenny County Council,1540
+1544,47 years,Laois County Council,1339
+1545,47 years,Longford County Council,681
+1546,47 years,Louth County Council,2031
+1547,47 years,Meath County Council,3564
+1548,47 years,Offaly County Council,1224
+1549,47 years,Westmeath County Council,1454
+1550,47 years,Wexford County Council,2345
+1551,47 years,Wicklow County Council,2458
+1552,47 years,Clare County Council,1795
+1553,47 years,Cork City Council,2969
+1554,47 years,Cork County Council,5651
+1555,47 years,Kerry County Council,2296
+1556,47 years,Limerick City & County Council,2973
+1557,47 years,Tipperary County Council,2500
+1558,47 years,Waterford City & County Council,1830
+1559,47 years,Galway City Council,1141
+1560,47 years,Galway County Council,2896
+1561,47 years,Leitrim County Council,493
+1562,47 years,Mayo  County Council,1864
+1563,47 years,Roscommon County Council,1031
+1564,47 years,Sligo County Council,1023
+1565,47 years,Cavan County Council,1158
+1566,47 years,Donegal County Council,2322
+1567,47 years,Monaghan County Council,942
+1568,48 years,Ireland,73617
+1569,48 years,Carlow County Council,841
+1570,48 years,Dublin City Council,7478
+1571,48 years,Dún Laoghaire Rathdown County Council,3184
+1572,48 years,Fingal County Council,5310
+1573,48 years,South Dublin County Council,4243
+1574,48 years,Kildare County Council,3879
+1575,48 years,Kilkenny County Council,1561
+1576,48 years,Laois County Council,1368
+1577,48 years,Longford County Council,626
+1578,48 years,Louth County Council,2062
+1579,48 years,Meath County Council,3426
+1580,48 years,Offaly County Council,1204
+1581,48 years,Westmeath County Council,1392
+1582,48 years,Wexford County Council,2313
+1583,48 years,Wicklow County Council,2415
+1584,48 years,Clare County Council,1920
+1585,48 years,Cork City Council,2811
+1586,48 years,Cork County Council,5576
+1587,48 years,Kerry County Council,2228
+1588,48 years,Limerick City & County Council,2898
+1589,48 years,Tipperary County Council,2392
+1590,48 years,Waterford City & County Council,1798
+1591,48 years,Galway City Council,1038
+1592,48 years,Galway County Council,2948
+1593,48 years,Leitrim County Council,499
+1594,48 years,Mayo  County Council,1863
+1595,48 years,Roscommon County Council,992
+1596,48 years,Sligo County Council,945
+1597,48 years,Cavan County Council,1161
+1598,48 years,Donegal County Council,2354
+1599,48 years,Monaghan County Council,892
+1600,49 years,Ireland,73731
+1601,49 years,Carlow County Council,946
+1602,49 years,Dublin City Council,7404
+1603,49 years,Dún Laoghaire Rathdown County Council,3159
+1604,49 years,Fingal County Council,5147
+1605,49 years,South Dublin County Council,4193
+1606,49 years,Kildare County Council,3914
+1607,49 years,Kilkenny County Council,1614
+1608,49 years,Laois County Council,1319
+1609,49 years,Longford County Council,688
+1610,49 years,Louth County Council,2084
+1611,49 years,Meath County Council,3450
+1612,49 years,Offaly County Council,1184
+1613,49 years,Westmeath County Council,1341
+1614,49 years,Wexford County Council,2413
+1615,49 years,Wicklow County Council,2411
+1616,49 years,Clare County Council,1923
+1617,49 years,Cork City Council,2842
+1618,49 years,Cork County Council,5460
+1619,49 years,Kerry County Council,2284
+1620,49 years,Limerick City & County Council,2923
+1621,49 years,Tipperary County Council,2505
+1622,49 years,Waterford City & County Council,1826
+1623,49 years,Galway City Council,1018
+1624,49 years,Galway County Council,2967
+1625,49 years,Leitrim County Council,492
+1626,49 years,Mayo  County Council,1885
+1627,49 years,Roscommon County Council,957
+1628,49 years,Sligo County Council,981
+1629,49 years,Cavan County Council,1093
+1630,49 years,Donegal County Council,2397
+1631,49 years,Monaghan County Council,911
+1632,50 years,Ireland,72249
+1633,50 years,Carlow County Council,897
+1634,50 years,Dublin City Council,7474
+1635,50 years,Dún Laoghaire Rathdown County Council,3101
+1636,50 years,Fingal County Council,4904
+1637,50 years,South Dublin County Council,3895
+1638,50 years,Kildare County Council,3778
+1639,50 years,Kilkenny County Council,1503
+1640,50 years,Laois County Council,1339
+1641,50 years,Longford County Council,621
+1642,50 years,Louth County Council,2093
+1643,50 years,Meath County Council,3410
+1644,50 years,Offaly County Council,1183
+1645,50 years,Westmeath County Council,1329
+1646,50 years,Wexford County Council,2437
+1647,50 years,Wicklow County Council,2335
+1648,50 years,Clare County Council,1979
+1649,50 years,Cork City Council,2894
+1650,50 years,Cork County Council,5363
+1651,50 years,Kerry County Council,2261
+1652,50 years,Limerick City & County Council,2867
+1653,50 years,Tipperary County Council,2305
+1654,50 years,Waterford City & County Council,1754
+1655,50 years,Galway City Council,975
+1656,50 years,Galway County Council,2826
+1657,50 years,Leitrim County Council,504
+1658,50 years,Mayo  County Council,1893
+1659,50 years,Roscommon County Council,990
+1660,50 years,Sligo County Council,911
+1661,50 years,Cavan County Council,1160
+1662,50 years,Donegal County Council,2389
+1663,50 years,Monaghan County Council,879
+1664,51 years,Ireland,69951
+1665,51 years,Carlow County Council,815
+1666,51 years,Dublin City Council,7151
+1667,51 years,Dún Laoghaire Rathdown County Council,2983
+1668,51 years,Fingal County Council,4566
+1669,51 years,South Dublin County Council,3834
+1670,51 years,Kildare County Council,3539
+1671,51 years,Kilkenny County Council,1432
+1672,51 years,Laois County Council,1294
+1673,51 years,Longford County Council,658
+1674,51 years,Louth County Council,2028
+1675,51 years,Meath County Council,3182
+1676,51 years,Offaly County Council,1130
+1677,51 years,Westmeath County Council,1321
+1678,51 years,Wexford County Council,2342
+1679,51 years,Wicklow County Council,2342
+1680,51 years,Clare County Council,1827
+1681,51 years,Cork City Council,2760
+1682,51 years,Cork County Council,5266
+1683,51 years,Kerry County Council,2195
+1684,51 years,Limerick City & County Council,2803
+1685,51 years,Tipperary County Council,2351
+1686,51 years,Waterford City & County Council,1776
+1687,51 years,Galway City Council,997
+1688,51 years,Galway County Council,2845
+1689,51 years,Leitrim County Council,485
+1690,51 years,Mayo  County Council,1888
+1691,51 years,Roscommon County Council,956
+1692,51 years,Sligo County Council,935
+1693,51 years,Cavan County Council,1117
+1694,51 years,Donegal County Council,2301
+1695,51 years,Monaghan County Council,832
+1696,52 years,Ireland,68770
+1697,52 years,Carlow County Council,823
+1698,52 years,Dublin City Council,7116
+1699,52 years,Dún Laoghaire Rathdown County Council,2933
+1700,52 years,Fingal County Council,4300
+1701,52 years,South Dublin County Council,3698
+1702,52 years,Kildare County Council,3425
+1703,52 years,Kilkenny County Council,1409
+1704,52 years,Laois County Council,1268
+1705,52 years,Longford County Council,624
+1706,52 years,Louth County Council,1965
+1707,52 years,Meath County Council,3104
+1708,52 years,Offaly County Council,1100
+1709,52 years,Westmeath County Council,1308
+1710,52 years,Wexford County Council,2335
+1711,52 years,Wicklow County Council,2254
+1712,52 years,Clare County Council,1895
+1713,52 years,Cork City Council,2732
+1714,52 years,Cork County Council,5071
+1715,52 years,Kerry County Council,2306
+1716,52 years,Limerick City & County Council,2795
+1717,52 years,Tipperary County Council,2277
+1718,52 years,Waterford City & County Council,1707
+1719,52 years,Galway City Council,918
+1720,52 years,Galway County Council,2729
+1721,52 years,Leitrim County Council,506
+1722,52 years,Mayo  County Council,1921
+1723,52 years,Roscommon County Council,991
+1724,52 years,Sligo County Council,942
+1725,52 years,Cavan County Council,1110
+1726,52 years,Donegal County Council,2352
+1727,52 years,Monaghan County Council,856
+1728,53 years,Ireland,64815
+1729,53 years,Carlow County Council,785
+1730,53 years,Dublin City Council,6622
+1731,53 years,Dún Laoghaire Rathdown County Council,2826
+1732,53 years,Fingal County Council,4029
+1733,53 years,South Dublin County Council,3463
+1734,53 years,Kildare County Council,3217
+1735,53 years,Kilkenny County Council,1419
+1736,53 years,Laois County Council,1162
+1737,53 years,Longford County Council,600
+1738,53 years,Louth County Council,1878
+1739,53 years,Meath County Council,2879
+1740,53 years,Offaly County Council,1067
+1741,53 years,Westmeath County Council,1272
+1742,53 years,Wexford County Council,2185
+1743,53 years,Wicklow County Council,2020
+1744,53 years,Clare County Council,1743
+1745,53 years,Cork City Council,2525
+1746,53 years,Cork County Council,4833
+1747,53 years,Kerry County Council,2167
+1748,53 years,Limerick City & County Council,2491
+1749,53 years,Tipperary County Council,2200
+1750,53 years,Waterford City & County Council,1696
+1751,53 years,Galway City Council,903
+1752,53 years,Galway County Council,2592
+1753,53 years,Leitrim County Council,477
+1754,53 years,Mayo  County Council,1848
+1755,53 years,Roscommon County Council,909
+1756,53 years,Sligo County Council,862
+1757,53 years,Cavan County Council,1044
+1758,53 years,Donegal County Council,2284
+1759,53 years,Monaghan County Council,817
+1760,54 years,Ireland,64218
+1761,54 years,Carlow County Council,805
+1762,54 years,Dublin City Council,6752
+1763,54 years,Dún Laoghaire Rathdown County Council,2788
+1764,54 years,Fingal County Council,3818
+1765,54 years,South Dublin County Council,3334
+1766,54 years,Kildare County Council,3132
+1767,54 years,Kilkenny County Council,1330
+1768,54 years,Laois County Council,1145
+1769,54 years,Longford County Council,602
+1770,54 years,Louth County Council,1830
+1771,54 years,Meath County Council,2846
+1772,54 years,Offaly County Council,1101
+1773,54 years,Westmeath County Council,1223
+1774,54 years,Wexford County Council,2165
+1775,54 years,Wicklow County Council,1976
+1776,54 years,Clare County Council,1770
+1777,54 years,Cork City Council,2606
+1778,54 years,Cork County Council,4708
+1779,54 years,Kerry County Council,2105
+1780,54 years,Limerick City & County Council,2560
+1781,54 years,Tipperary County Council,2253
+1782,54 years,Waterford City & County Council,1611
+1783,54 years,Galway City Council,871
+1784,54 years,Galway County Council,2607
+1785,54 years,Leitrim County Council,490
+1786,54 years,Mayo  County Council,1789
+1787,54 years,Roscommon County Council,886
+1788,54 years,Sligo County Council,935
+1789,54 years,Cavan County Council,1053
+1790,54 years,Donegal County Council,2309
+1791,54 years,Monaghan County Council,818
+1792,55 years,Ireland,62916
+1793,55 years,Carlow County Council,804
+1794,55 years,Dublin City Council,6208
+1795,55 years,Dún Laoghaire Rathdown County Council,2883
+1796,55 years,Fingal County Council,3660
+1797,55 years,South Dublin County Council,3254
+1798,55 years,Kildare County Council,3042
+1799,55 years,Kilkenny County Council,1377
+1800,55 years,Laois County Council,1153
+1801,55 years,Longford County Council,590
+1802,55 years,Louth County Council,1687
+1803,55 years,Meath County Council,2690
+1804,55 years,Offaly County Council,1013
+1805,55 years,Westmeath County Council,1199
+1806,55 years,Wexford County Council,2228
+1807,55 years,Wicklow County Council,1994
+1808,55 years,Clare County Council,1758
+1809,55 years,Cork City Council,2549
+1810,55 years,Cork County Council,4684
+1811,55 years,Kerry County Council,2052
+1812,55 years,Limerick City & County Council,2508
+1813,55 years,Tipperary County Council,2248
+1814,55 years,Waterford City & County Council,1686
+1815,55 years,Galway City Council,879
+1816,55 years,Galway County Council,2540
+1817,55 years,Leitrim County Council,475
+1818,55 years,Mayo  County Council,1841
+1819,55 years,Roscommon County Council,965
+1820,55 years,Sligo County Council,912
+1821,55 years,Cavan County Council,1053
+1822,55 years,Donegal County Council,2208
+1823,55 years,Monaghan County Council,776
+1824,56 years,Ireland,61963
+1825,56 years,Carlow County Council,795
+1826,56 years,Dublin City Council,6376
+1827,56 years,Dún Laoghaire Rathdown County Council,2691
+1828,56 years,Fingal County Council,3500
+1829,56 years,South Dublin County Council,3031
+1830,56 years,Kildare County Council,2987
+1831,56 years,Kilkenny County Council,1353
+1832,56 years,Laois County Council,1093
+1833,56 years,Longford County Council,539
+1834,56 years,Louth County Council,1752
+1835,56 years,Meath County Council,2619
+1836,56 years,Offaly County Council,1065
+1837,56 years,Westmeath County Council,1130
+1838,56 years,Wexford County Council,2094
+1839,56 years,Wicklow County Council,2002
+1840,56 years,Clare County Council,1739
+1841,56 years,Cork City Council,2620
+1842,56 years,Cork County Council,4709
+1843,56 years,Kerry County Council,2138
+1844,56 years,Limerick City & County Council,2445
+1845,56 years,Tipperary County Council,2183
+1846,56 years,Waterford City & County Council,1649
+1847,56 years,Galway City Council,883
+1848,56 years,Galway County Council,2448
+1849,56 years,Leitrim County Council,457
+1850,56 years,Mayo  County Council,1858
+1851,56 years,Roscommon County Council,913
+1852,56 years,Sligo County Council,888
+1853,56 years,Cavan County Council,1038
+1854,56 years,Donegal County Council,2198
+1855,56 years,Monaghan County Council,770
+1856,57 years,Ireland,62655
+1857,57 years,Carlow County Council,740
+1858,57 years,Dublin City Council,6439
+1859,57 years,Dún Laoghaire Rathdown County Council,2795
+1860,57 years,Fingal County Council,3445
+1861,57 years,South Dublin County Council,3246
+1862,57 years,Kildare County Council,2934
+1863,57 years,Kilkenny County Council,1375
+1864,57 years,Laois County Council,1054
+1865,57 years,Longford County Council,570
+1866,57 years,Louth County Council,1676
+1867,57 years,Meath County Council,2716
+1868,57 years,Offaly County Council,1060
+1869,57 years,Westmeath County Council,1231
+1870,57 years,Wexford County Council,2258
+1871,57 years,Wicklow County Council,2111
+1872,57 years,Clare County Council,1648
+1873,57 years,Cork City Council,2648
+1874,57 years,Cork County Council,4643
+1875,57 years,Kerry County Council,2112
+1876,57 years,Limerick City & County Council,2548
+1877,57 years,Tipperary County Council,2233
+1878,57 years,Waterford City & County Council,1664
+1879,57 years,Galway City Council,863
+1880,57 years,Galway County Council,2506
+1881,57 years,Leitrim County Council,476
+1882,57 years,Mayo  County Council,1894
+1883,57 years,Roscommon County Council,887
+1884,57 years,Sligo County Council,868
+1885,57 years,Cavan County Council,991
+1886,57 years,Donegal County Council,2226
+1887,57 years,Monaghan County Council,798
+1888,58 years,Ireland,60435
+1889,58 years,Carlow County Council,724
+1890,58 years,Dublin City Council,6309
+1891,58 years,Dún Laoghaire Rathdown County Council,2756
+1892,58 years,Fingal County Council,3305
+1893,58 years,South Dublin County Council,3089
+1894,58 years,Kildare County Council,2756
+1895,58 years,Kilkenny County Council,1268
+1896,58 years,Laois County Council,1070
+1897,58 years,Longford County Council,509
+1898,58 years,Louth County Council,1636
+1899,58 years,Meath County Council,2440
+1900,58 years,Offaly County Council,1044
+1901,58 years,Westmeath County Council,1153
+1902,58 years,Wexford County Council,2138
+1903,58 years,Wicklow County Council,1898
+1904,58 years,Clare County Council,1689
+1905,58 years,Cork City Council,2686
+1906,58 years,Cork County Council,4406
+1907,58 years,Kerry County Council,2053
+1908,58 years,Limerick City & County Council,2428
+1909,58 years,Tipperary County Council,2195
+1910,58 years,Waterford City & County Council,1628
+1911,58 years,Galway City Council,767
+1912,58 years,Galway County Council,2394
+1913,58 years,Leitrim County Council,471
+1914,58 years,Mayo  County Council,1849
+1915,58 years,Roscommon County Council,960
+1916,58 years,Sligo County Council,944
+1917,58 years,Cavan County Council,964
+1918,58 years,Donegal County Council,2133
+1919,58 years,Monaghan County Council,773
+1920,59 years,Ireland,59196
+1921,59 years,Carlow County Council,743
+1922,59 years,Dublin City Council,6245
+1923,59 years,Dún Laoghaire Rathdown County Council,2784
+1924,59 years,Fingal County Council,3262
+1925,59 years,South Dublin County Council,3057
+1926,59 years,Kildare County Council,2581
+1927,59 years,Kilkenny County Council,1310
+1928,59 years,Laois County Council,967
+1929,59 years,Longford County Council,535
+1930,59 years,Louth County Council,1582
+1931,59 years,Meath County Council,2346
+1932,59 years,Offaly County Council,956
+1933,59 years,Westmeath County Council,1167
+1934,59 years,Wexford County Council,2052
+1935,59 years,Wicklow County Council,1922
+1936,59 years,Clare County Council,1620
+1937,59 years,Cork City Council,2639
+1938,59 years,Cork County Council,4275
+1939,59 years,Kerry County Council,2054
+1940,59 years,Limerick City & County Council,2399
+1941,59 years,Tipperary County Council,2198
+1942,59 years,Waterford City & County Council,1655
+1943,59 years,Galway City Council,775
+1944,59 years,Galway County Council,2308
+1945,59 years,Leitrim County Council,426
+1946,59 years,Mayo  County Council,1786
+1947,59 years,Roscommon County Council,897
+1948,59 years,Sligo County Council,905
+1949,59 years,Cavan County Council,995
+1950,59 years,Donegal County Council,1981
+1951,59 years,Monaghan County Council,774
+1952,60 years,Ireland,57518
+1953,60 years,Carlow County Council,673
+1954,60 years,Dublin City Council,6026
+1955,60 years,Dún Laoghaire Rathdown County Council,2658
+1956,60 years,Fingal County Council,3093
+1957,60 years,South Dublin County Council,2982
+1958,60 years,Kildare County Council,2511
+1959,60 years,Kilkenny County Council,1237
+1960,60 years,Laois County Council,965
+1961,60 years,Longford County Council,528
+1962,60 years,Louth County Council,1499
+1963,60 years,Meath County Council,2232
+1964,60 years,Offaly County Council,982
+1965,60 years,Westmeath County Council,1087
+1966,60 years,Wexford County Council,2050
+1967,60 years,Wicklow County Council,1974
+1968,60 years,Clare County Council,1540
+1969,60 years,Cork City Council,2604
+1970,60 years,Cork County Council,4086
+1971,60 years,Kerry County Council,2056
+1972,60 years,Limerick City & County Council,2390
+1973,60 years,Tipperary County Council,2053
+1974,60 years,Waterford City & County Council,1579
+1975,60 years,Galway City Council,760
+1976,60 years,Galway County Council,2272
+1977,60 years,Leitrim County Council,401
+1978,60 years,Mayo  County Council,1772
+1979,60 years,Roscommon County Council,893
+1980,60 years,Sligo County Council,862
+1981,60 years,Cavan County Council,946
+1982,60 years,Donegal County Council,2055
+1983,60 years,Monaghan County Council,752
+1984,61 years,Ireland,56705
+1985,61 years,Carlow County Council,684
+1986,61 years,Dublin City Council,5804
+1987,61 years,Dún Laoghaire Rathdown County Council,2534
+1988,61 years,Fingal County Council,3027
+1989,61 years,South Dublin County Council,2980
+1990,61 years,Kildare County Council,2494
+1991,61 years,Kilkenny County Council,1260
+1992,61 years,Laois County Council,1005
+1993,61 years,Longford County Council,524
+1994,61 years,Louth County Council,1542
+1995,61 years,Meath County Council,2213
+1996,61 years,Offaly County Council,1025
+1997,61 years,Westmeath County Council,1065
+1998,61 years,Wexford County Council,2064
+1999,61 years,Wicklow County Council,1779
+2000,61 years,Clare County Council,1493
+2001,61 years,Cork City Council,2466
+2002,61 years,Cork County Council,4157
+2003,61 years,Kerry County Council,1963
+2004,61 years,Limerick City & County Council,2291
+2005,61 years,Tipperary County Council,2127
+2006,61 years,Waterford City & County Council,1487
+2007,61 years,Galway City Council,780
+2008,61 years,Galway County Council,2317
+2009,61 years,Leitrim County Council,436
+2010,61 years,Mayo  County Council,1735
+2011,61 years,Roscommon County Council,910
+2012,61 years,Sligo County Council,910
+2013,61 years,Cavan County Council,925
+2014,61 years,Donegal County Council,1941
+2015,61 years,Monaghan County Council,767
+2016,62 years,Ireland,55015
+2017,62 years,Carlow County Council,713
+2018,62 years,Dublin City Council,5647
+2019,62 years,Dún Laoghaire Rathdown County Council,2470
+2020,62 years,Fingal County Council,2939
+2021,62 years,South Dublin County Council,2869
+2022,62 years,Kildare County Council,2282
+2023,62 years,Kilkenny County Council,1283
+2024,62 years,Laois County Council,922
+2025,62 years,Longford County Council,499
+2026,62 years,Louth County Council,1413
+2027,62 years,Meath County Council,2090
+2028,62 years,Offaly County Council,974
+2029,62 years,Westmeath County Council,1051
+2030,62 years,Wexford County Council,1936
+2031,62 years,Wicklow County Council,1709
+2032,62 years,Clare County Council,1492
+2033,62 years,Cork City Council,2364
+2034,62 years,Cork County Council,3964
+2035,62 years,Kerry County Council,2010
+2036,62 years,Limerick City & County Council,2311
+2037,62 years,Tipperary County Council,1945
+2038,62 years,Waterford City & County Council,1495
+2039,62 years,Galway City Council,739
+2040,62 years,Galway County Council,2208
+2041,62 years,Leitrim County Council,425
+2042,62 years,Mayo  County Council,1825
+2043,62 years,Roscommon County Council,848
+2044,62 years,Sligo County Council,944
+2045,62 years,Cavan County Council,918
+2046,62 years,Donegal County Council,1977
+2047,62 years,Monaghan County Council,753
+2048,63 years,Ireland,52196
+2049,63 years,Carlow County Council,642
+2050,63 years,Dublin City Council,5268
+2051,63 years,Dún Laoghaire Rathdown County Council,2369
+2052,63 years,Fingal County Council,2725
+2053,63 years,South Dublin County Council,2761
+2054,63 years,Kildare County Council,2236
+2055,63 years,Kilkenny County Council,1142
+2056,63 years,Laois County Council,914
+2057,63 years,Longford County Council,463
+2058,63 years,Louth County Council,1318
+2059,63 years,Meath County Council,1959
+2060,63 years,Offaly County Council,875
+2061,63 years,Westmeath County Council,984
+2062,63 years,Wexford County Council,1847
+2063,63 years,Wicklow County Council,1636
+2064,63 years,Clare County Council,1576
+2065,63 years,Cork City Council,2259
+2066,63 years,Cork County Council,3746
+2067,63 years,Kerry County Council,1972
+2068,63 years,Limerick City & County Council,2195
+2069,63 years,Tipperary County Council,1869
+2070,63 years,Waterford City & County Council,1393
+2071,63 years,Galway City Council,708
+2072,63 years,Galway County Council,2087
+2073,63 years,Leitrim County Council,439
+2074,63 years,Mayo  County Council,1762
+2075,63 years,Roscommon County Council,851
+2076,63 years,Sligo County Council,799
+2077,63 years,Cavan County Council,826
+2078,63 years,Donegal County Council,1908
+2079,63 years,Monaghan County Council,667
+2080,64 years,Ireland,51236
+2081,64 years,Carlow County Council,610
+2082,64 years,Dublin City Council,5080
+2083,64 years,Dún Laoghaire Rathdown County Council,2304
+2084,64 years,Fingal County Council,2551
+2085,64 years,South Dublin County Council,2722
+2086,64 years,Kildare County Council,2115
+2087,64 years,Kilkenny County Council,1151
+2088,64 years,Laois County Council,869
+2089,64 years,Longford County Council,446
+2090,64 years,Louth County Council,1308
+2091,64 years,Meath County Council,1870
+2092,64 years,Offaly County Council,811
+2093,64 years,Westmeath County Council,981
+2094,64 years,Wexford County Council,1789
+2095,64 years,Wicklow County Council,1602
+2096,64 years,Clare County Council,1431
+2097,64 years,Cork City Council,2216
+2098,64 years,Cork County Council,3690
+2099,64 years,Kerry County Council,1954
+2100,64 years,Limerick City & County Council,2241
+2101,64 years,Tipperary County Council,1971
+2102,64 years,Waterford City & County Council,1335
+2103,64 years,Galway City Council,694
+2104,64 years,Galway County Council,2171
+2105,64 years,Leitrim County Council,417
+2106,64 years,Mayo  County Council,1808
+2107,64 years,Roscommon County Council,884
+2108,64 years,Sligo County Council,839
+2109,64 years,Cavan County Council,842
+2110,64 years,Donegal County Council,1819
+2111,64 years,Monaghan County Council,715
+2112,65 years,Ireland,50083
+2113,65 years,Carlow County Council,628
+2114,65 years,Dublin City Council,5001
+2115,65 years,Dún Laoghaire Rathdown County Council,2259
+2116,65 years,Fingal County Council,2556
+2117,65 years,South Dublin County Council,2647
+2118,65 years,Kildare County Council,2113
+2119,65 years,Kilkenny County Council,1054
+2120,65 years,Laois County Council,877
+2121,65 years,Longford County Council,475
+2122,65 years,Louth County Council,1305
+2123,65 years,Meath County Council,1809
+2124,65 years,Offaly County Council,870
+2125,65 years,Westmeath County Council,990
+2126,65 years,Wexford County Council,1745
+2127,65 years,Wicklow County Council,1512
+2128,65 years,Clare County Council,1341
+2129,65 years,Cork City Council,2125
+2130,65 years,Cork County Council,3555
+2131,65 years,Kerry County Council,1901
+2132,65 years,Limerick City & County Council,2140
+2133,65 years,Tipperary County Council,1875
+2134,65 years,Waterford City & County Council,1331
+2135,65 years,Galway City Council,686
+2136,65 years,Galway County Council,2094
+2137,65 years,Leitrim County Council,438
+2138,65 years,Mayo  County Council,1709
+2139,65 years,Roscommon County Council,827
+2140,65 years,Sligo County Council,843
+2141,65 years,Cavan County Council,863
+2142,65 years,Donegal County Council,1826
+2143,65 years,Monaghan County Council,688
+2144,66 years,Ireland,48421
+2145,66 years,Carlow County Council,569
+2146,66 years,Dublin City Council,4694
+2147,66 years,Dún Laoghaire Rathdown County Council,2193
+2148,66 years,Fingal County Council,2390
+2149,66 years,South Dublin County Council,2639
+2150,66 years,Kildare County Council,2033
+2151,66 years,Kilkenny County Council,1056
+2152,66 years,Laois County Council,793
+2153,66 years,Longford County Council,437
+2154,66 years,Louth County Council,1263
+2155,66 years,Meath County Council,1786
+2156,66 years,Offaly County Council,849
+2157,66 years,Westmeath County Council,936
+2158,66 years,Wexford County Council,1661
+2159,66 years,Wicklow County Council,1534
+2160,66 years,Clare County Council,1351
+2161,66 years,Cork City Council,1960
+2162,66 years,Cork County Council,3560
+2163,66 years,Kerry County Council,1826
+2164,66 years,Limerick City & County Council,2142
+2165,66 years,Tipperary County Council,1834
+2166,66 years,Waterford City & County Council,1271
+2167,66 years,Galway City Council,629
+2168,66 years,Galway County Council,2059
+2169,66 years,Leitrim County Council,411
+2170,66 years,Mayo  County Council,1720
+2171,66 years,Roscommon County Council,823
+2172,66 years,Sligo County Council,769
+2173,66 years,Cavan County Council,807
+2174,66 years,Donegal County Council,1775
+2175,66 years,Monaghan County Council,651
+2176,67 years,Ireland,48151
+2177,67 years,Carlow County Council,562
+2178,67 years,Dublin City Council,4593
+2179,67 years,Dún Laoghaire Rathdown County Council,2132
+2180,67 years,Fingal County Council,2312
+2181,67 years,South Dublin County Council,2631
+2182,67 years,Kildare County Council,2126
+2183,67 years,Kilkenny County Council,1070
+2184,67 years,Laois County Council,781
+2185,67 years,Longford County Council,442
+2186,67 years,Louth County Council,1236
+2187,67 years,Meath County Council,1828
+2188,67 years,Offaly County Council,795
+2189,67 years,Westmeath County Council,931
+2190,67 years,Wexford County Council,1741
+2191,67 years,Wicklow County Council,1488
+2192,67 years,Clare County Council,1361
+2193,67 years,Cork City Council,1928
+2194,67 years,Cork County Council,3466
+2195,67 years,Kerry County Council,1889
+2196,67 years,Limerick City & County Council,2041
+2197,67 years,Tipperary County Council,1804
+2198,67 years,Waterford City & County Council,1348
+2199,67 years,Galway City Council,642
+2200,67 years,Galway County Council,2018
+2201,67 years,Leitrim County Council,422
+2202,67 years,Mayo  County Council,1708
+2203,67 years,Roscommon County Council,833
+2204,67 years,Sligo County Council,776
+2205,67 years,Cavan County Council,793
+2206,67 years,Donegal County Council,1816
+2207,67 years,Monaghan County Council,638
+2208,68 years,Ireland,45520
+2209,68 years,Carlow County Council,565
+2210,68 years,Dublin City Council,4204
+2211,68 years,Dún Laoghaire Rathdown County Council,2082
+2212,68 years,Fingal County Council,2290
+2213,68 years,South Dublin County Council,2495
+2214,68 years,Kildare County Council,1861
+2215,68 years,Kilkenny County Council,1045
+2216,68 years,Laois County Council,749
+2217,68 years,Longford County Council,448
+2218,68 years,Louth County Council,1169
+2219,68 years,Meath County Council,1685
+2220,68 years,Offaly County Council,736
+2221,68 years,Westmeath County Council,859
+2222,68 years,Wexford County Council,1642
+2223,68 years,Wicklow County Council,1368
+2224,68 years,Clare County Council,1285
+2225,68 years,Cork City Council,1830
+2226,68 years,Cork County Council,3418
+2227,68 years,Kerry County Council,1721
+2228,68 years,Limerick City & County Council,1929
+2229,68 years,Tipperary County Council,1738
+2230,68 years,Waterford City & County Council,1203
+2231,68 years,Galway City Council,653
+2232,68 years,Galway County Council,1851
+2233,68 years,Leitrim County Council,415
+2234,68 years,Mayo  County Council,1602
+2235,68 years,Roscommon County Council,794
+2236,68 years,Sligo County Council,767
+2237,68 years,Cavan County Council,774
+2238,68 years,Donegal County Council,1711
+2239,68 years,Monaghan County Council,631
+2240,69 years,Ireland,45969
+2241,69 years,Carlow County Council,587
+2242,69 years,Dublin City Council,4391
+2243,69 years,Dún Laoghaire Rathdown County Council,2076
+2244,69 years,Fingal County Council,2320
+2245,69 years,South Dublin County Council,2570
+2246,69 years,Kildare County Council,1930
+2247,69 years,Kilkenny County Council,1013
+2248,69 years,Laois County Council,759
+2249,69 years,Longford County Council,433
+2250,69 years,Louth County Council,1105
+2251,69 years,Meath County Council,1624
+2252,69 years,Offaly County Council,763
+2253,69 years,Westmeath County Council,872
+2254,69 years,Wexford County Council,1628
+2255,69 years,Wicklow County Council,1375
+2256,69 years,Clare County Council,1289
+2257,69 years,Cork City Council,1871
+2258,69 years,Cork County Council,3437
+2259,69 years,Kerry County Council,1762
+2260,69 years,Limerick City & County Council,2050
+2261,69 years,Tipperary County Council,1723
+2262,69 years,Waterford City & County Council,1194
+2263,69 years,Galway City Council,678
+2264,69 years,Galway County Council,1931
+2265,69 years,Leitrim County Council,403
+2266,69 years,Mayo  County Council,1562
+2267,69 years,Roscommon County Council,758
+2268,69 years,Sligo County Council,774
+2269,69 years,Cavan County Council,722
+2270,69 years,Donegal County Council,1752
+2271,69 years,Monaghan County Council,617
+2272,70 years,Ireland,43150
+2273,70 years,Carlow County Council,522
+2274,70 years,Dublin City Council,4105
+2275,70 years,Dún Laoghaire Rathdown County Council,1979
+2276,70 years,Fingal County Council,2171
+2277,70 years,South Dublin County Council,2475
+2278,70 years,Kildare County Council,1711
+2279,70 years,Kilkenny County Council,962
+2280,70 years,Laois County Council,740
+2281,70 years,Longford County Council,433
+2282,70 years,Louth County Council,1089
+2283,70 years,Meath County Council,1492
+2284,70 years,Offaly County Council,735
+2285,70 years,Westmeath County Council,765
+2286,70 years,Wexford County Council,1528
+2287,70 years,Wicklow County Council,1310
+2288,70 years,Clare County Council,1230
+2289,70 years,Cork City Council,1791
+2290,70 years,Cork County Council,3167
+2291,70 years,Kerry County Council,1692
+2292,70 years,Limerick City & County Council,1924
+2293,70 years,Tipperary County Council,1637
+2294,70 years,Waterford City & County Council,1150
+2295,70 years,Galway City Council,553
+2296,70 years,Galway County Council,1763
+2297,70 years,Leitrim County Council,370
+2298,70 years,Mayo  County Council,1498
+2299,70 years,Roscommon County Council,756
+2300,70 years,Sligo County Council,690
+2301,70 years,Cavan County Council,678
+2302,70 years,Donegal County Council,1640
+2303,70 years,Monaghan County Council,594
+2304,71 years,Ireland,41685
+2305,71 years,Carlow County Council,497
+2306,71 years,Dublin City Council,3905
+2307,71 years,Dún Laoghaire Rathdown County Council,1877
+2308,71 years,Fingal County Council,1961
+2309,71 years,South Dublin County Council,2419
+2310,71 years,Kildare County Council,1682
+2311,71 years,Kilkenny County Council,836
+2312,71 years,Laois County Council,658
+2313,71 years,Longford County Council,390
+2314,71 years,Louth County Council,1030
+2315,71 years,Meath County Council,1559
+2316,71 years,Offaly County Council,710
+2317,71 years,Westmeath County Council,735
+2318,71 years,Wexford County Council,1484
+2319,71 years,Wicklow County Council,1271
+2320,71 years,Clare County Council,1191
+2321,71 years,Cork City Council,1722
+2322,71 years,Cork County Council,3086
+2323,71 years,Kerry County Council,1652
+2324,71 years,Limerick City & County Council,1849
+2325,71 years,Tipperary County Council,1531
+2326,71 years,Waterford City & County Council,1100
+2327,71 years,Galway City Council,550
+2328,71 years,Galway County Council,1762
+2329,71 years,Leitrim County Council,373
+2330,71 years,Mayo  County Council,1582
+2331,71 years,Roscommon County Council,676
+2332,71 years,Sligo County Council,735
+2333,71 years,Cavan County Council,680
+2334,71 years,Donegal County Council,1626
+2335,71 years,Monaghan County Council,556
+2336,72 years,Ireland,41124
+2337,72 years,Carlow County Council,526
+2338,72 years,Dublin City Council,3853
+2339,72 years,Dún Laoghaire Rathdown County Council,1879
+2340,72 years,Fingal County Council,2066
+2341,72 years,South Dublin County Council,2358
+2342,72 years,Kildare County Council,1666
+2343,72 years,Kilkenny County Council,920
+2344,72 years,Laois County Council,611
+2345,72 years,Longford County Council,419
+2346,72 years,Louth County Council,1050
+2347,72 years,Meath County Council,1478
+2348,72 years,Offaly County Council,697
+2349,72 years,Westmeath County Council,741
+2350,72 years,Wexford County Council,1498
+2351,72 years,Wicklow County Council,1273
+2352,72 years,Clare County Council,1241
+2353,72 years,Cork City Council,1718
+2354,72 years,Cork County Council,2931
+2355,72 years,Kerry County Council,1569
+2356,72 years,Limerick City & County Council,1810
+2357,72 years,Tipperary County Council,1530
+2358,72 years,Waterford City & County Council,1076
+2359,72 years,Galway City Council,521
+2360,72 years,Galway County Council,1673
+2361,72 years,Leitrim County Council,366
+2362,72 years,Mayo  County Council,1507
+2363,72 years,Roscommon County Council,669
+2364,72 years,Sligo County Council,686
+2365,72 years,Cavan County Council,689
+2366,72 years,Donegal County Council,1518
+2367,72 years,Monaghan County Council,585
+2368,73 years,Ireland,39255
+2369,73 years,Carlow County Council,461
+2370,73 years,Dublin City Council,3788
+2371,73 years,Dún Laoghaire Rathdown County Council,1796
+2372,73 years,Fingal County Council,1941
+2373,73 years,South Dublin County Council,2139
+2374,73 years,Kildare County Council,1584
+2375,73 years,Kilkenny County Council,831
+2376,73 years,Laois County Council,558
+2377,73 years,Longford County Council,375
+2378,73 years,Louth County Council,980
+2379,73 years,Meath County Council,1460
+2380,73 years,Offaly County Council,660
+2381,73 years,Westmeath County Council,743
+2382,73 years,Wexford County Council,1403
+2383,73 years,Wicklow County Council,1284
+2384,73 years,Clare County Council,1113
+2385,73 years,Cork City Council,1601
+2386,73 years,Cork County Council,2923
+2387,73 years,Kerry County Council,1529
+2388,73 years,Limerick City & County Council,1722
+2389,73 years,Tipperary County Council,1479
+2390,73 years,Waterford City & County Council,1068
+2391,73 years,Galway City Council,547
+2392,73 years,Galway County Council,1639
+2393,73 years,Leitrim County Council,295
+2394,73 years,Mayo  County Council,1365
+2395,73 years,Roscommon County Council,617
+2396,73 years,Sligo County Council,667
+2397,73 years,Cavan County Council,629
+2398,73 years,Donegal County Council,1522
+2399,73 years,Monaghan County Council,536
+2400,74 years,Ireland,37670
+2401,74 years,Carlow County Council,475
+2402,74 years,Dublin City Council,3632
+2403,74 years,Dún Laoghaire Rathdown County Council,1814
+2404,74 years,Fingal County Council,1821
+2405,74 years,South Dublin County Council,1973
+2406,74 years,Kildare County Council,1494
+2407,74 years,Kilkenny County Council,860
+2408,74 years,Laois County Council,567
+2409,74 years,Longford County Council,371
+2410,74 years,Louth County Council,1006
+2411,74 years,Meath County Council,1329
+2412,74 years,Offaly County Council,637
+2413,74 years,Westmeath County Council,686
+2414,74 years,Wexford County Council,1303
+2415,74 years,Wicklow County Council,1126
+2416,74 years,Clare County Council,1076
+2417,74 years,Cork City Council,1572
+2418,74 years,Cork County Council,2770
+2419,74 years,Kerry County Council,1481
+2420,74 years,Limerick City & County Council,1658
+2421,74 years,Tipperary County Council,1459
+2422,74 years,Waterford City & County Council,1000
+2423,74 years,Galway City Council,502
+2424,74 years,Galway County Council,1570
+2425,74 years,Leitrim County Council,313
+2426,74 years,Mayo  County Council,1349
+2427,74 years,Roscommon County Council,625
+2428,74 years,Sligo County Council,642
+2429,74 years,Cavan County Council,596
+2430,74 years,Donegal County Council,1465
+2431,74 years,Monaghan County Council,498
+2432,75 years,Ireland,35767
+2433,75 years,Carlow County Council,404
+2434,75 years,Dublin City Council,3409
+2435,75 years,Dún Laoghaire Rathdown County Council,1836
+2436,75 years,Fingal County Council,1732
+2437,75 years,South Dublin County Council,1803
+2438,75 years,Kildare County Council,1456
+2439,75 years,Kilkenny County Council,769
+2440,75 years,Laois County Council,579
+2441,75 years,Longford County Council,344
+2442,75 years,Louth County Council,916
+2443,75 years,Meath County Council,1250
+2444,75 years,Offaly County Council,606
+2445,75 years,Westmeath County Council,634
+2446,75 years,Wexford County Council,1280
+2447,75 years,Wicklow County Council,1114
+2448,75 years,Clare County Council,1058
+2449,75 years,Cork City Council,1518
+2450,75 years,Cork County Council,2620
+2451,75 years,Kerry County Council,1418
+2452,75 years,Limerick City & County Council,1548
+2453,75 years,Tipperary County Council,1297
+2454,75 years,Waterford City & County Council,1059
+2455,75 years,Galway City Council,479
+2456,75 years,Galway County Council,1443
+2457,75 years,Leitrim County Council,287
+2458,75 years,Mayo  County Council,1271
+2459,75 years,Roscommon County Council,573
+2460,75 years,Sligo County Council,583
+2461,75 years,Cavan County Council,582
+2462,75 years,Donegal County Council,1407
+2463,75 years,Monaghan County Council,492
+2464,76 years,Ireland,33759
+2465,76 years,Carlow County Council,412
+2466,76 years,Dublin City Council,3195
+2467,76 years,Dún Laoghaire Rathdown County Council,1703
+2468,76 years,Fingal County Council,1660
+2469,76 years,South Dublin County Council,1736
+2470,76 years,Kildare County Council,1245
+2471,76 years,Kilkenny County Council,725
+2472,76 years,Laois County Council,539
+2473,76 years,Longford County Council,359
+2474,76 years,Louth County Council,921
+2475,76 years,Meath County Council,1174
+2476,76 years,Offaly County Council,562
+2477,76 years,Westmeath County Council,586
+2478,76 years,Wexford County Council,1188
+2479,76 years,Wicklow County Council,1047
+2480,76 years,Clare County Council,976
+2481,76 years,Cork City Council,1483
+2482,76 years,Cork County Council,2446
+2483,76 years,Kerry County Council,1351
+2484,76 years,Limerick City & County Council,1462
+2485,76 years,Tipperary County Council,1301
+2486,76 years,Waterford City & County Council,938
+2487,76 years,Galway City Council,504
+2488,76 years,Galway County Council,1341
+2489,76 years,Leitrim County Council,279
+2490,76 years,Mayo  County Council,1150
+2491,76 years,Roscommon County Council,592
+2492,76 years,Sligo County Council,562
+2493,76 years,Cavan County Council,514
+2494,76 years,Donegal County Council,1344
+2495,76 years,Monaghan County Council,464
+2496,77 years,Ireland,30572
+2497,77 years,Carlow County Council,372
+2498,77 years,Dublin City Council,2943
+2499,77 years,Dún Laoghaire Rathdown County Council,1604
+2500,77 years,Fingal County Council,1475
+2501,77 years,South Dublin County Council,1509
+2502,77 years,Kildare County Council,1181
+2503,77 years,Kilkenny County Council,697
+2504,77 years,Laois County Council,452
+2505,77 years,Longford County Council,296
+2506,77 years,Louth County Council,775
+2507,77 years,Meath County Council,1067
+2508,77 years,Offaly County Council,496
+2509,77 years,Westmeath County Council,598
+2510,77 years,Wexford County Council,1090
+2511,77 years,Wicklow County Council,974
+2512,77 years,Clare County Council,894
+2513,77 years,Cork City Council,1358
+2514,77 years,Cork County Council,2290
+2515,77 years,Kerry County Council,1189
+2516,77 years,Limerick City & County Council,1324
+2517,77 years,Tipperary County Council,1211
+2518,77 years,Waterford City & County Council,835
+2519,77 years,Galway City Council,425
+2520,77 years,Galway County Council,1198
+2521,77 years,Leitrim County Council,260
+2522,77 years,Mayo  County Council,1044
+2523,77 years,Roscommon County Council,466
+2524,77 years,Sligo County Council,511
+2525,77 years,Cavan County Council,482
+2526,77 years,Donegal County Council,1179
+2527,77 years,Monaghan County Council,377
+2528,78 years,Ireland,28058
+2529,78 years,Carlow County Council,312
+2530,78 years,Dublin City Council,2846
+2531,78 years,Dún Laoghaire Rathdown County Council,1551
+2532,78 years,Fingal County Council,1292
+2533,78 years,South Dublin County Council,1393
+2534,78 years,Kildare County Council,1040
+2535,78 years,Kilkenny County Council,610
+2536,78 years,Laois County Council,443
+2537,78 years,Longford County Council,261
+2538,78 years,Louth County Council,797
+2539,78 years,Meath County Council,992
+2540,78 years,Offaly County Council,439
+2541,78 years,Westmeath County Council,519
+2542,78 years,Wexford County Council,1056
+2543,78 years,Wicklow County Council,936
+2544,78 years,Clare County Council,793
+2545,78 years,Cork City Council,1197
+2546,78 years,Cork County Council,1965
+2547,78 years,Kerry County Council,1077
+2548,78 years,Limerick City & County Council,1217
+2549,78 years,Tipperary County Council,1043
+2550,78 years,Waterford City & County Council,761
+2551,78 years,Galway City Council,387
+2552,78 years,Galway County Council,1125
+2553,78 years,Leitrim County Council,232
+2554,78 years,Mayo  County Council,952
+2555,78 years,Roscommon County Council,461
+2556,78 years,Sligo County Council,452
+2557,78 years,Cavan County Council,433
+2558,78 years,Donegal County Council,1115
+2559,78 years,Monaghan County Council,361
+2560,79 years,Ireland,26104
+2561,79 years,Carlow County Council,339
+2562,79 years,Dublin City Council,2774
+2563,79 years,Dún Laoghaire Rathdown County Council,1448
+2564,79 years,Fingal County Council,1258
+2565,79 years,South Dublin County Council,1205
+2566,79 years,Kildare County Council,981
+2567,79 years,Kilkenny County Council,597
+2568,79 years,Laois County Council,390
+2569,79 years,Longford County Council,235
+2570,79 years,Louth County Council,665
+2571,79 years,Meath County Council,865
+2572,79 years,Offaly County Council,442
+2573,79 years,Westmeath County Council,478
+2574,79 years,Wexford County Council,912
+2575,79 years,Wicklow County Council,812
+2576,79 years,Clare County Council,693
+2577,79 years,Cork City Council,1142
+2578,79 years,Cork County Council,1833
+2579,79 years,Kerry County Council,1017
+2580,79 years,Limerick City & County Council,1209
+2581,79 years,Tipperary County Council,1010
+2582,79 years,Waterford City & County Council,699
+2583,79 years,Galway City Council,363
+2584,79 years,Galway County Council,1026
+2585,79 years,Leitrim County Council,212
+2586,79 years,Mayo  County Council,884
+2587,79 years,Roscommon County Council,422
+2588,79 years,Sligo County Council,457
+2589,79 years,Cavan County Council,388
+2590,79 years,Donegal County Council,991
+2591,79 years,Monaghan County Council,357
+2592,80 years,Ireland,22847
+2593,80 years,Carlow County Council,279
+2594,80 years,Dublin City Council,2408
+2595,80 years,Dún Laoghaire Rathdown County Council,1410
+2596,80 years,Fingal County Council,1011
+2597,80 years,South Dublin County Council,1022
+2598,80 years,Kildare County Council,778
+2599,80 years,Kilkenny County Council,514
+2600,80 years,Laois County Council,341
+2601,80 years,Longford County Council,207
+2602,80 years,Louth County Council,572
+2603,80 years,Meath County Council,802
+2604,80 years,Offaly County Council,360
+2605,80 years,Westmeath County Council,397
+2606,80 years,Wexford County Council,833
+2607,80 years,Wicklow County Council,706
+2608,80 years,Clare County Council,594
+2609,80 years,Cork City Council,1103
+2610,80 years,Cork County Council,1669
+2611,80 years,Kerry County Council,818
+2612,80 years,Limerick City & County Council,1001
+2613,80 years,Tipperary County Council,804
+2614,80 years,Waterford City & County Council,656
+2615,80 years,Galway City Council,376
+2616,80 years,Galway County Council,998
+2617,80 years,Leitrim County Council,159
+2618,80 years,Mayo  County Council,799
+2619,80 years,Roscommon County Council,362
+2620,80 years,Sligo County Council,379
+2621,80 years,Cavan County Council,332
+2622,80 years,Donegal County Council,902
+2623,80 years,Monaghan County Council,255
+2624,81 years,Ireland,20661
+2625,81 years,Carlow County Council,265
+2626,81 years,Dublin City Council,2254
+2627,81 years,Dún Laoghaire Rathdown County Council,1240
+2628,81 years,Fingal County Council,919
+2629,81 years,South Dublin County Council,992
+2630,81 years,Kildare County Council,673
+2631,81 years,Kilkenny County Council,463
+2632,81 years,Laois County Council,304
+2633,81 years,Longford County Council,179
+2634,81 years,Louth County Council,589
+2635,81 years,Meath County Council,674
+2636,81 years,Offaly County Council,309
+2637,81 years,Westmeath County Council,380
+2638,81 years,Wexford County Council,763
+2639,81 years,Wicklow County Council,603
+2640,81 years,Clare County Council,583
+2641,81 years,Cork City Council,943
+2642,81 years,Cork County Council,1407
+2643,81 years,Kerry County Council,783
+2644,81 years,Limerick City & County Council,888
+2645,81 years,Tipperary County Council,775
+2646,81 years,Waterford City & County Council,585
+2647,81 years,Galway City Council,250
+2648,81 years,Galway County Council,865
+2649,81 years,Leitrim County Council,150
+2650,81 years,Mayo  County Council,740
+2651,81 years,Roscommon County Council,335
+2652,81 years,Sligo County Council,340
+2653,81 years,Cavan County Council,319
+2654,81 years,Donegal County Council,840
+2655,81 years,Monaghan County Council,251
+2656,82 years,Ireland,19538
+2657,82 years,Carlow County Council,240
+2658,82 years,Dublin City Council,2287
+2659,82 years,Dún Laoghaire Rathdown County Council,1229
+2660,82 years,Fingal County Council,848
+2661,82 years,South Dublin County Council,901
+2662,82 years,Kildare County Council,636
+2663,82 years,Kilkenny County Council,399
+2664,82 years,Laois County Council,269
+2665,82 years,Longford County Council,164
+2666,82 years,Louth County Council,512
+2667,82 years,Meath County Council,617
+2668,82 years,Offaly County Council,319
+2669,82 years,Westmeath County Council,328
+2670,82 years,Wexford County Council,670
+2671,82 years,Wicklow County Council,599
+2672,82 years,Clare County Council,526
+2673,82 years,Cork City Council,963
+2674,82 years,Cork County Council,1379
+2675,82 years,Kerry County Council,758
+2676,82 years,Limerick City & County Council,846
+2677,82 years,Tipperary County Council,749
+2678,82 years,Waterford City & County Council,502
+2679,82 years,Galway City Council,279
+2680,82 years,Galway County Council,804
+2681,82 years,Leitrim County Council,169
+2682,82 years,Mayo  County Council,641
+2683,82 years,Roscommon County Council,322
+2684,82 years,Sligo County Council,298
+2685,82 years,Cavan County Council,273
+2686,82 years,Donegal County Council,744
+2687,82 years,Monaghan County Council,267
+2688,83 years,Ireland,17885
+2689,83 years,Carlow County Council,203
+2690,83 years,Dublin City Council,2088
+2691,83 years,Dún Laoghaire Rathdown County Council,1141
+2692,83 years,Fingal County Council,707
+2693,83 years,South Dublin County Council,798
+2694,83 years,Kildare County Council,562
+2695,83 years,Kilkenny County Council,387
+2696,83 years,Laois County Council,251
+2697,83 years,Longford County Council,143
+2698,83 years,Louth County Council,461
+2699,83 years,Meath County Council,567
+2700,83 years,Offaly County Council,313
+2701,83 years,Westmeath County Council,346
+2702,83 years,Wexford County Council,651
+2703,83 years,Wicklow County Council,531
+2704,83 years,Clare County Council,476
+2705,83 years,Cork City Council,844
+2706,83 years,Cork County Council,1179
+2707,83 years,Kerry County Council,615
+2708,83 years,Limerick City & County Council,771
+2709,83 years,Tipperary County Council,678
+2710,83 years,Waterford City & County Council,501
+2711,83 years,Galway City Council,277
+2712,83 years,Galway County Council,770
+2713,83 years,Leitrim County Council,163
+2714,83 years,Mayo  County Council,621
+2715,83 years,Roscommon County Council,317
+2716,83 years,Sligo County Council,298
+2717,83 years,Cavan County Council,280
+2718,83 years,Donegal County Council,707
+2719,83 years,Monaghan County Council,239
+2720,84 years,Ireland,15655
+2721,84 years,Carlow County Council,198
+2722,84 years,Dublin City Council,1916
+2723,84 years,Dún Laoghaire Rathdown County Council,992
+2724,84 years,Fingal County Council,642
+2725,84 years,South Dublin County Council,711
+2726,84 years,Kildare County Council,464
+2727,84 years,Kilkenny County Council,347
+2728,84 years,Laois County Council,205
+2729,84 years,Longford County Council,140
+2730,84 years,Louth County Council,416
+2731,84 years,Meath County Council,460
+2732,84 years,Offaly County Council,251
+2733,84 years,Westmeath County Council,275
+2734,84 years,Wexford County Council,553
+2735,84 years,Wicklow County Council,454
+2736,84 years,Clare County Council,394
+2737,84 years,Cork City Council,750
+2738,84 years,Cork County Council,1059
+2739,84 years,Kerry County Council,607
+2740,84 years,Limerick City & County Council,687
+2741,84 years,Tipperary County Council,611
+2742,84 years,Waterford City & County Council,429
+2743,84 years,Galway City Council,236
+2744,84 years,Galway County Council,603
+2745,84 years,Leitrim County Council,144
+2746,84 years,Mayo  County Council,543
+2747,84 years,Roscommon County Council,249
+2748,84 years,Sligo County Council,237
+2749,84 years,Cavan County Council,252
+2750,84 years,Donegal County Council,623
+2751,84 years,Monaghan County Council,207
+2752,85 years,Ireland,14457
+2753,85 years,Carlow County Council,141
+2754,85 years,Dublin City Council,1786
+2755,85 years,Dún Laoghaire Rathdown County Council,937
+2756,85 years,Fingal County Council,546
+2757,85 years,South Dublin County Council,644
+2758,85 years,Kildare County Council,475
+2759,85 years,Kilkenny County Council,309
+2760,85 years,Laois County Council,198
+2761,85 years,Longford County Council,143
+2762,85 years,Louth County Council,352
+2763,85 years,Meath County Council,438
+2764,85 years,Offaly County Council,295
+2765,85 years,Westmeath County Council,274
+2766,85 years,Wexford County Council,503
+2767,85 years,Wicklow County Council,417
+2768,85 years,Clare County Council,376
+2769,85 years,Cork City Council,653
+2770,85 years,Cork County Council,1050
+2771,85 years,Kerry County Council,499
+2772,85 years,Limerick City & County Council,597
+2773,85 years,Tipperary County Council,551
+2774,85 years,Waterford City & County Council,396
+2775,85 years,Galway City Council,211
+2776,85 years,Galway County Council,569
+2777,85 years,Leitrim County Council,108
+2778,85 years,Mayo  County Council,523
+2779,85 years,Roscommon County Council,235
+2780,85 years,Sligo County Council,260
+2781,85 years,Cavan County Council,245
+2782,85 years,Donegal County Council,551
+2783,85 years,Monaghan County Council,175
+2784,86 years,Ireland,12871
+2785,86 years,Carlow County Council,159
+2786,86 years,Dublin City Council,1562
+2787,86 years,Dún Laoghaire Rathdown County Council,817
+2788,86 years,Fingal County Council,500
+2789,86 years,South Dublin County Council,530
+2790,86 years,Kildare County Council,371
+2791,86 years,Kilkenny County Council,307
+2792,86 years,Laois County Council,176
+2793,86 years,Longford County Council,140
+2794,86 years,Louth County Council,317
+2795,86 years,Meath County Council,402
+2796,86 years,Offaly County Council,225
+2797,86 years,Westmeath County Council,242
+2798,86 years,Wexford County Council,443
+2799,86 years,Wicklow County Council,372
+2800,86 years,Clare County Council,355
+2801,86 years,Cork City Council,614
+2802,86 years,Cork County Council,923
+2803,86 years,Kerry County Council,439
+2804,86 years,Limerick City & County Council,556
+2805,86 years,Tipperary County Council,503
+2806,86 years,Waterford City & County Council,354
+2807,86 years,Galway City Council,181
+2808,86 years,Galway County Council,552
+2809,86 years,Leitrim County Council,92
+2810,86 years,Mayo  County Council,451
+2811,86 years,Roscommon County Council,235
+2812,86 years,Sligo County Council,222
+2813,86 years,Cavan County Council,226
+2814,86 years,Donegal County Council,434
+2815,86 years,Monaghan County Council,171
+2816,87 years,Ireland,11281
+2817,87 years,Carlow County Council,119
+2818,87 years,Dublin City Council,1417
+2819,87 years,Dún Laoghaire Rathdown County Council,736
+2820,87 years,Fingal County Council,434
+2821,87 years,South Dublin County Council,474
+2822,87 years,Kildare County Council,341
+2823,87 years,Kilkenny County Council,278
+2824,87 years,Laois County Council,158
+2825,87 years,Longford County Council,102
+2826,87 years,Louth County Council,266
+2827,87 years,Meath County Council,379
+2828,87 years,Offaly County Council,173
+2829,87 years,Westmeath County Council,228
+2830,87 years,Wexford County Council,366
+2831,87 years,Wicklow County Council,291
+2832,87 years,Clare County Council,283
+2833,87 years,Cork City Council,528
+2834,87 years,Cork County Council,804
+2835,87 years,Kerry County Council,424
+2836,87 years,Limerick City & County Council,451
+2837,87 years,Tipperary County Council,430
+2838,87 years,Waterford City & County Council,328
+2839,87 years,Galway City Council,143
+2840,87 years,Galway County Council,439
+2841,87 years,Leitrim County Council,105
+2842,87 years,Mayo  County Council,393
+2843,87 years,Roscommon County Council,226
+2844,87 years,Sligo County Council,194
+2845,87 years,Cavan County Council,182
+2846,87 years,Donegal County Council,433
+2847,87 years,Monaghan County Council,156
+2848,88 years,Ireland,9698
+2849,88 years,Carlow County Council,105
+2850,88 years,Dublin City Council,1330
+2851,88 years,Dún Laoghaire Rathdown County Council,668
+2852,88 years,Fingal County Council,324
+2853,88 years,South Dublin County Council,379
+2854,88 years,Kildare County Council,265
+2855,88 years,Kilkenny County Council,203
+2856,88 years,Laois County Council,137
+2857,88 years,Longford County Council,91
+2858,88 years,Louth County Council,244
+2859,88 years,Meath County Council,282
+2860,88 years,Offaly County Council,178
+2861,88 years,Westmeath County Council,167
+2862,88 years,Wexford County Council,323
+2863,88 years,Wicklow County Council,241
+2864,88 years,Clare County Council,258
+2865,88 years,Cork City Council,454
+2866,88 years,Cork County Council,690
+2867,88 years,Kerry County Council,322
+2868,88 years,Limerick City & County Council,357
+2869,88 years,Tipperary County Council,364
+2870,88 years,Waterford City & County Council,266
+2871,88 years,Galway City Council,141
+2872,88 years,Galway County Council,433
+2873,88 years,Leitrim County Council,80
+2874,88 years,Mayo  County Council,393
+2875,88 years,Roscommon County Council,177
+2876,88 years,Sligo County Council,168
+2877,88 years,Cavan County Council,188
+2878,88 years,Donegal County Council,339
+2879,88 years,Monaghan County Council,131
+2880,89 years,Ireland,7997
+2881,89 years,Carlow County Council,86
+2882,89 years,Dublin City Council,1066
+2883,89 years,Dún Laoghaire Rathdown County Council,525
+2884,89 years,Fingal County Council,333
+2885,89 years,South Dublin County Council,319
+2886,89 years,Kildare County Council,242
+2887,89 years,Kilkenny County Council,188
+2888,89 years,Laois County Council,96
+2889,89 years,Longford County Council,73
+2890,89 years,Louth County Council,183
+2891,89 years,Meath County Council,224
+2892,89 years,Offaly County Council,120
+2893,89 years,Westmeath County Council,131
+2894,89 years,Wexford County Council,257
+2895,89 years,Wicklow County Council,246
+2896,89 years,Clare County Council,207
+2897,89 years,Cork City Council,365
+2898,89 years,Cork County Council,549
+2899,89 years,Kerry County Council,269
+2900,89 years,Limerick City & County Council,317
+2901,89 years,Tipperary County Council,332
+2902,89 years,Waterford City & County Council,226
+2903,89 years,Galway City Council,96
+2904,89 years,Galway County Council,360
+2905,89 years,Leitrim County Council,56
+2906,89 years,Mayo  County Council,269
+2907,89 years,Roscommon County Council,149
+2908,89 years,Sligo County Council,140
+2909,89 years,Cavan County Council,134
+2910,89 years,Donegal County Council,310
+2911,89 years,Monaghan County Council,129
+2912,90 years,Ireland,6729
+2913,90 years,Carlow County Council,65
+2914,90 years,Dublin City Council,885
+2915,90 years,Dún Laoghaire Rathdown County Council,493
+2916,90 years,Fingal County Council,256
+2917,90 years,South Dublin County Council,289
+2918,90 years,Kildare County Council,196
+2919,90 years,Kilkenny County Council,131
+2920,90 years,Laois County Council,70
+2921,90 years,Longford County Council,56
+2922,90 years,Louth County Council,149
+2923,90 years,Meath County Council,203
+2924,90 years,Offaly County Council,107
+2925,90 years,Westmeath County Council,123
+2926,90 years,Wexford County Council,217
+2927,90 years,Wicklow County Council,177
+2928,90 years,Clare County Council,174
+2929,90 years,Cork City Council,335
+2930,90 years,Cork County Council,475
+2931,90 years,Kerry County Council,228
+2932,90 years,Limerick City & County Council,248
+2933,90 years,Tipperary County Council,280
+2934,90 years,Waterford City & County Council,204
+2935,90 years,Galway City Council,88
+2936,90 years,Galway County Council,289
+2937,90 years,Leitrim County Council,61
+2938,90 years,Mayo  County Council,256
+2939,90 years,Roscommon County Council,137
+2940,90 years,Sligo County Council,105
+2941,90 years,Cavan County Council,96
+2942,90 years,Donegal County Council,248
+2943,90 years,Monaghan County Council,88
+2944,91 years,Ireland,5731
+2945,91 years,Carlow County Council,72
+2946,91 years,Dublin City Council,778
+2947,91 years,Dún Laoghaire Rathdown County Council,379
+2948,91 years,Fingal County Council,211
+2949,91 years,South Dublin County Council,210
+2950,91 years,Kildare County Council,153
+2951,91 years,Kilkenny County Council,138
+2952,91 years,Laois County Council,89
+2953,91 years,Longford County Council,43
+2954,91 years,Louth County Council,132
+2955,91 years,Meath County Council,144
+2956,91 years,Offaly County Council,77
+2957,91 years,Westmeath County Council,109
+2958,91 years,Wexford County Council,177
+2959,91 years,Wicklow County Council,164
+2960,91 years,Clare County Council,138
+2961,91 years,Cork City Council,272
+2962,91 years,Cork County Council,430
+2963,91 years,Kerry County Council,209
+2964,91 years,Limerick City & County Council,221
+2965,91 years,Tipperary County Council,230
+2966,91 years,Waterford City & County Council,171
+2967,91 years,Galway City Council,102
+2968,91 years,Galway County Council,254
+2969,91 years,Leitrim County Council,57
+2970,91 years,Mayo  County Council,218
+2971,91 years,Roscommon County Council,96
+2972,91 years,Sligo County Council,86
+2973,91 years,Cavan County Council,98
+2974,91 years,Donegal County Council,207
+2975,91 years,Monaghan County Council,66
+2976,92 years,Ireland,4106
+2977,92 years,Carlow County Council,38
+2978,92 years,Dublin City Council,624
+2979,92 years,Dún Laoghaire Rathdown County Council,287
+2980,92 years,Fingal County Council,148
+2981,92 years,South Dublin County Council,146
+2982,92 years,Kildare County Council,111
+2983,92 years,Kilkenny County Council,83
+2984,92 years,Laois County Council,65
+2985,92 years,Longford County Council,26
+2986,92 years,Louth County Council,100
+2987,92 years,Meath County Council,125
+2988,92 years,Offaly County Council,57
+2989,92 years,Westmeath County Council,73
+2990,92 years,Wexford County Council,125
+2991,92 years,Wicklow County Council,114
+2992,92 years,Clare County Council,99
+2993,92 years,Cork City Council,177
+2994,92 years,Cork County Council,304
+2995,92 years,Kerry County Council,128
+2996,92 years,Limerick City & County Council,150
+2997,92 years,Tipperary County Council,170
+2998,92 years,Waterford City & County Council,120
+2999,92 years,Galway City Council,64
+3000,92 years,Galway County Council,190
+3001,92 years,Leitrim County Council,42
+3002,92 years,Mayo  County Council,129
+3003,92 years,Roscommon County Council,76
+3004,92 years,Sligo County Council,54
+3005,92 years,Cavan County Council,67
+3006,92 years,Donegal County Council,148
+3007,92 years,Monaghan County Council,66
+3008,93 years,Ireland,3257
+3009,93 years,Carlow County Council,26
+3010,93 years,Dublin City Council,447
+3011,93 years,Dún Laoghaire Rathdown County Council,230
+3012,93 years,Fingal County Council,118
+3013,93 years,South Dublin County Council,115
+3014,93 years,Kildare County Council,114
+3015,93 years,Kilkenny County Council,66
+3016,93 years,Laois County Council,38
+3017,93 years,Longford County Council,36
+3018,93 years,Louth County Council,88
+3019,93 years,Meath County Council,88
+3020,93 years,Offaly County Council,48
+3021,93 years,Westmeath County Council,60
+3022,93 years,Wexford County Council,110
+3023,93 years,Wicklow County Council,82
+3024,93 years,Clare County Council,78
+3025,93 years,Cork City Council,149
+3026,93 years,Cork County Council,236
+3027,93 years,Kerry County Council,127
+3028,93 years,Limerick City & County Council,130
+3029,93 years,Tipperary County Council,118
+3030,93 years,Waterford City & County Council,70
+3031,93 years,Galway City Council,53
+3032,93 years,Galway County Council,129
+3033,93 years,Leitrim County Council,32
+3034,93 years,Mayo  County Council,122
+3035,93 years,Roscommon County Council,71
+3036,93 years,Sligo County Council,51
+3037,93 years,Cavan County Council,50
+3038,93 years,Donegal County Council,130
+3039,93 years,Monaghan County Council,45
+3040,94 years,Ireland,2455
+3041,94 years,Carlow County Council,24
+3042,94 years,Dublin City Council,362
+3043,94 years,Dún Laoghaire Rathdown County Council,189
+3044,94 years,Fingal County Council,86
+3045,94 years,South Dublin County Council,100
+3046,94 years,Kildare County Council,64
+3047,94 years,Kilkenny County Council,63
+3048,94 years,Laois County Council,29
+3049,94 years,Longford County Council,26
+3050,94 years,Louth County Council,50
+3051,94 years,Meath County Council,72
+3052,94 years,Offaly County Council,50
+3053,94 years,Westmeath County Council,47
+3054,94 years,Wexford County Council,64
+3055,94 years,Wicklow County Council,76
+3056,94 years,Clare County Council,54
+3057,94 years,Cork City Council,79
+3058,94 years,Cork County Council,153
+3059,94 years,Kerry County Council,78
+3060,94 years,Limerick City & County Council,98
+3061,94 years,Tipperary County Council,91
+3062,94 years,Waterford City & County Council,57
+3063,94 years,Galway City Council,26
+3064,94 years,Galway County Council,120
+3065,94 years,Leitrim County Council,22
+3066,94 years,Mayo  County Council,108
+3067,94 years,Roscommon County Council,55
+3068,94 years,Sligo County Council,57
+3069,94 years,Cavan County Council,32
+3070,94 years,Donegal County Council,88
+3071,94 years,Monaghan County Council,35
+3072,95 years,Ireland,1826
+3073,95 years,Carlow County Council,14
+3074,95 years,Dublin City Council,265
+3075,95 years,Dún Laoghaire Rathdown County Council,132
+3076,95 years,Fingal County Council,53
+3077,95 years,South Dublin County Council,63
+3078,95 years,Kildare County Council,54
+3079,95 years,Kilkenny County Council,36
+3080,95 years,Laois County Council,13
+3081,95 years,Longford County Council,11
+3082,95 years,Louth County Council,50
+3083,95 years,Meath County Council,63
+3084,95 years,Offaly County Council,27
+3085,95 years,Westmeath County Council,40
+3086,95 years,Wexford County Council,51
+3087,95 years,Wicklow County Council,59
+3088,95 years,Clare County Council,51
+3089,95 years,Cork City Council,61
+3090,95 years,Cork County Council,140
+3091,95 years,Kerry County Council,66
+3092,95 years,Limerick City & County Council,68
+3093,95 years,Tipperary County Council,70
+3094,95 years,Waterford City & County Council,33
+3095,95 years,Galway City Council,24
+3096,95 years,Galway County Council,98
+3097,95 years,Leitrim County Council,21
+3098,95 years,Mayo  County Council,61
+3099,95 years,Roscommon County Council,38
+3100,95 years,Sligo County Council,23
+3101,95 years,Cavan County Council,29
+3102,95 years,Donegal County Council,91
+3103,95 years,Monaghan County Council,21
+3104,96 years,Ireland,1283
+3105,96 years,Carlow County Council,11
+3106,96 years,Dublin City Council,200
+3107,96 years,Dún Laoghaire Rathdown County Council,95
+3108,96 years,Fingal County Council,48
+3109,96 years,South Dublin County Council,41
+3110,96 years,Kildare County Council,37
+3111,96 years,Kilkenny County Council,32
+3112,96 years,Laois County Council,15
+3113,96 years,Longford County Council,13
+3114,96 years,Louth County Council,30
+3115,96 years,Meath County Council,42
+3116,96 years,Offaly County Council,19
+3117,96 years,Westmeath County Council,24
+3118,96 years,Wexford County Council,42
+3119,96 years,Wicklow County Council,38
+3120,96 years,Clare County Council,40
+3121,96 years,Cork City Council,54
+3122,96 years,Cork County Council,84
+3123,96 years,Kerry County Council,33
+3124,96 years,Limerick City & County Council,50
+3125,96 years,Tipperary County Council,41
+3126,96 years,Waterford City & County Council,26
+3127,96 years,Galway City Council,19
+3128,96 years,Galway County Council,54
+3129,96 years,Leitrim County Council,6
+3130,96 years,Mayo  County Council,52
+3131,96 years,Roscommon County Council,28
+3132,96 years,Sligo County Council,21
+3133,96 years,Cavan County Council,23
+3134,96 years,Donegal County Council,48
+3135,96 years,Monaghan County Council,17
+3136,97 years,Ireland,949
+3137,97 years,Carlow County Council,11
+3138,97 years,Dublin City Council,115
+3139,97 years,Dún Laoghaire Rathdown County Council,57
+3140,97 years,Fingal County Council,51
+3141,97 years,South Dublin County Council,38
+3142,97 years,Kildare County Council,28
+3143,97 years,Kilkenny County Council,24
+3144,97 years,Laois County Council,10
+3145,97 years,Longford County Council,8
+3146,97 years,Louth County Council,25
+3147,97 years,Meath County Council,24
+3148,97 years,Offaly County Council,16
+3149,97 years,Westmeath County Council,23
+3150,97 years,Wexford County Council,37
+3151,97 years,Wicklow County Council,25
+3152,97 years,Clare County Council,31
+3153,97 years,Cork City Council,39
+3154,97 years,Cork County Council,65
+3155,97 years,Kerry County Council,45
+3156,97 years,Limerick City & County Council,33
+3157,97 years,Tipperary County Council,33
+3158,97 years,Waterford City & County Council,20
+3159,97 years,Galway City Council,12
+3160,97 years,Galway County Council,44
+3161,97 years,Leitrim County Council,17
+3162,97 years,Mayo  County Council,34
+3163,97 years,Roscommon County Council,13
+3164,97 years,Sligo County Council,22
+3165,97 years,Cavan County Council,13
+3166,97 years,Donegal County Council,27
+3167,97 years,Monaghan County Council,9
+3168,98 years,Ireland,622
+3169,98 years,Carlow County Council,7
+3170,98 years,Dublin City Council,81
+3171,98 years,Dún Laoghaire Rathdown County Council,45
+3172,98 years,Fingal County Council,21
+3173,98 years,South Dublin County Council,17
+3174,98 years,Kildare County Council,15
+3175,98 years,Kilkenny County Council,16
+3176,98 years,Laois County Council,5
+3177,98 years,Longford County Council,6
+3178,98 years,Louth County Council,20
+3179,98 years,Meath County Council,19
+3180,98 years,Offaly County Council,8
+3181,98 years,Westmeath County Council,11
+3182,98 years,Wexford County Council,22
+3183,98 years,Wicklow County Council,16
+3184,98 years,Clare County Council,15
+3185,98 years,Cork City Council,23
+3186,98 years,Cork County Council,47
+3187,98 years,Kerry County Council,19
+3188,98 years,Limerick City & County Council,36
+3189,98 years,Tipperary County Council,21
+3190,98 years,Waterford City & County Council,17
+3191,98 years,Galway City Council,15
+3192,98 years,Galway County Council,34
+3193,98 years,Leitrim County Council,6
+3194,98 years,Mayo  County Council,27
+3195,98 years,Roscommon County Council,7
+3196,98 years,Sligo County Council,12
+3197,98 years,Cavan County Council,8
+3198,98 years,Donegal County Council,15
+3199,98 years,Monaghan County Council,11
+3200,99 years,Ireland,441
+3201,99 years,Carlow County Council,7
+3202,99 years,Dublin City Council,64
+3203,99 years,Dún Laoghaire Rathdown County Council,32
+3204,99 years,Fingal County Council,22
+3205,99 years,South Dublin County Council,17
+3206,99 years,Kildare County Council,13
+3207,99 years,Kilkenny County Council,9
+3208,99 years,Laois County Council,3
+3209,99 years,Longford County Council,1
+3210,99 years,Louth County Council,7
+3211,99 years,Meath County Council,15
+3212,99 years,Offaly County Council,4
+3213,99 years,Westmeath County Council,6
+3214,99 years,Wexford County Council,21
+3215,99 years,Wicklow County Council,8
+3216,99 years,Clare County Council,14
+3217,99 years,Cork City Council,24
+3218,99 years,Cork County Council,25
+3219,99 years,Kerry County Council,12
+3220,99 years,Limerick City & County Council,17
+3221,99 years,Tipperary County Council,10
+3222,99 years,Waterford City & County Council,19
+3223,99 years,Galway City Council,4
+3224,99 years,Galway County Council,22
+3225,99 years,Leitrim County Council,3
+3226,99 years,Mayo  County Council,14
+3227,99 years,Roscommon County Council,9
+3228,99 years,Sligo County Council,10
+3229,99 years,Cavan County Council,6
+3230,99 years,Donegal County Council,18
+3231,99 years,Monaghan County Council,5
+3232,100 years and over,Ireland,738
+3233,100 years and over,Carlow County Council,3
+3234,100 years and over,Dublin City Council,100
+3235,100 years and over,Dún Laoghaire Rathdown County Council,55
+3236,100 years and over,Fingal County Council,21
+3237,100 years and over,South Dublin County Council,36
+3238,100 years and over,Kildare County Council,25
+3239,100 years and over,Kilkenny County Council,18
+3240,100 years and over,Laois County Council,10
+3241,100 years and over,Longford County Council,6
+3242,100 years and over,Louth County Council,28
+3243,100 years and over,Meath County Council,21
+3244,100 years and over,Offaly County Council,5
+3245,100 years and over,Westmeath County Council,12
+3246,100 years and over,Wexford County Council,16
+3247,100 years and over,Wicklow County Council,18
+3248,100 years and over,Clare County Council,19
+3249,100 years and over,Cork City Council,26
+3250,100 years and over,Cork County Council,54
+3251,100 years and over,Kerry County Council,14
+3252,100 years and over,Limerick City & County Council,41
+3253,100 years and over,Tipperary County Council,23
+3254,100 years and over,Waterford City & County Council,19
+3255,100 years and over,Galway City Council,8
+3256,100 years and over,Galway County Council,42
+3257,100 years and over,Leitrim County Council,4
+3258,100 years and over,Mayo  County Council,31
+3259,100 years and over,Roscommon County Council,12
+3260,100 years and over,Sligo County Council,12
+3261,100 years and over,Cavan County Council,18
+3262,100 years and over,Donegal County Council,33
+3263,100 years and over,Monaghan County Council,8
